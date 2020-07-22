@@ -1,6 +1,6 @@
 # MyLibrary
 Influential Text Books and Method Materials
-<view in raw mode for list>
+view in raw mode for list
 
 (in no particular order. 1 star really like, 2 stars if use all the time, 3 stars simply dynamite)
 Deep Learning. Goodfellow, Bengio, Courville. MIT Press, 2016.
