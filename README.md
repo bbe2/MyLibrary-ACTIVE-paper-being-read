@@ -8,3 +8,4 @@ R for Data Science, Import, Tidy, Transform, Visualize, and Model Data. Hadley W
 Modeling Techniques in Predictive Analytics. Thomas Miller. Pearson, 2015.
 Pandas for Everyone for Python Data Analysis. Daniel Chen. Addison-Wesley, 2018.
 Hands-on Machine Learning with Scikit-Learn & TensorFlow. Aurelien Geron. O'Reilly, 2017.
+test
