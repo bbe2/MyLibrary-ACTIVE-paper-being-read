@@ -1,5 +1,5 @@
 # MyLibrary 
--view in raw mode for list-
+---view in raw mode for list---
 Influential Text Books and Method Materials
 
 (in no particular order. 1 star really like, 2 stars if use all the time, 3 stars simply dynamite)
