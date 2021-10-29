@@ -12,3 +12,4 @@ Pandas for Everyone for Python Data Analysis. Daniel Chen. Addison-Wesley, 2018 
 Hands-on Machine Learning with Scikit-Learn & TensorFlow. Aurelien Geron. O'Reilly, 2017 *  
 Machine Learning with R, 2nd Ed. Brett Lantz, 2015.  
 Reasoning with Data. Stanton. (includes solid Bayesian analysis framework)  
+...  
