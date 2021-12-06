@@ -1,4 +1,11 @@
-# My Reference Library 
+# My Reference Library (see library.pdf for all texts)
+
+December 2021: Working through new text to be able to teach: Great work!  
+
+Probability, Statistics, and Data A Fresh Approach Using R  
+By Darrin Speegle, Bryan Clair  
+https://www.routledge.com/Probability-Statistics-and-Data-A-Fresh-Approach-Using-R/Speegle-Clair/p/book/9780367436674  
+
 Influential Text Books and Method Materials  
 (in no particular order. 1 star really like, 2 stars if use all the time, 3 stars simply dynamite)  
 
