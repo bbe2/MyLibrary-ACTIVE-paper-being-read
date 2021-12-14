@@ -23,3 +23,4 @@ Hands-on Machine Learning with Scikit-Learn & TensorFlow. Aurelien Geron. O'Reil
 Machine Learning with R, 2nd Ed. Brett Lantz, 2015.  
 Reasoning with Data. Stanton. (includes solid Bayesian analysis framework)  
 ...  
+![library](https://user-images.githubusercontent.com/59778456/146006693-3e4feee0-d268-4d94-918c-45dd2a516f6e.jpeg)
