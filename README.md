@@ -13,8 +13,8 @@ https://www.routledge.com/Probability-Statistics-and-Data-A-Fresh-Approach-Using
 
 
 
-Influential Text Books and Method Materials  
-(in no particular order. 1 star really like, 2 stars if use all the time, 3 stars simply dynamite)  
+>>>>>>>>>>>>>>Influential Text Books and Method Materials  
+>>>>>>(in no particular order. 1 star really like, 2 stars if use all the time, 3 stars simply dynamite)  
 
 Advanced R. Hadley Wickham, 2017 (amazing!)  
 Intro to Data Mining, 2nd Ed. Tan, Steinbach, Karpatne, Kumar, 2019.  
