@@ -5,19 +5,17 @@ Buildng out knowledge and learning inventory of 'technologies of the new real' -
 
 https://www.amazon.com/Technologies-New-Real-Contagion-Social/dp/1487540221/ref=sr_1_1?crid=3SE6FWJ8TO75N&keywords=technologies+of+the+new+real&qid=1647026569&sprefix=technologies+of+the+new+real%2Caps%2C85&sr=8-1
 
-
-----------------------------------------------------------------------------------  
 December 2021: 
 
 Probability, Statistics, and Data A Fresh Approach Using R  
 By Darrin Speegle, Bryan Clair  
 https://www.routledge.com/Probability-Statistics-and-Data-A-Fresh-Approach-Using-R/Speegle-Clair/p/book/9780367436674  
 
-----------------------------------------------------------------------------------  
+
 
 Influential Text Books and Method Materials  
 (in no particular order. 1 star really like, 2 stars if use all the time, 3 stars simply dynamite)  
-----------------------------------------------------------------------------------  
+
 Advanced R. Hadley Wickham, 2017 (amazing!)  
 Intro to Data Mining, 2nd Ed. Tan, Steinbach, Karpatne, Kumar, 2019.  
 Deep Learning. Goodfellow, Bengio, Courville. MIT Press, 2016.  
