@@ -1,17 +1,16 @@
-# My Reference Library (see library.pdf for all texts)
+# My Reference Library (see library.pdf for all texts)  
+(mid march - working on sxummarizing symbolic modeling  
+(rnn)(03-12) A neural programming language for the reservoir Computer, KimJ, BassettD 03-22-22  
 
 Currently reading - HP Lovecraft 'the complete fiction'  
 Buildng out knowledge and learning inventory of 'technologies of the new real' - arthur kroker  
 
 https://www.amazon.com/Technologies-New-Real-Contagion-Social/dp/1487540221/ref=sr_1_1?crid=3SE6FWJ8TO75N&keywords=technologies+of+the+new+real&qid=1647026569&sprefix=technologies+of+the+new+real%2Caps%2C85&sr=8-1
 
-December 2021: 
-
+December 2021: really recommended as a refresher
 Probability, Statistics, and Data A Fresh Approach Using R  
 By Darrin Speegle, Bryan Clair  
 https://www.routledge.com/Probability-Statistics-and-Data-A-Fresh-Approach-Using-R/Speegle-Clair/p/book/9780367436674  
-
-
 
 >>>>>>>>>>>>>>Influential Text Books and Method Materials  
 >>>>>>(in no particular order. 1 star really like, 2 stars if use all the time, 3 stars simply dynamite)  
