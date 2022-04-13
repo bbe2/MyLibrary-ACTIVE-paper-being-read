@@ -16,7 +16,6 @@ Buildng out knowledge and learning inventory of 'technologies of the new real' -
 https://www.amazon.com/Technologies-New-Real-Contagion-Social/dp/1487540221/ref=sr_1_1?crid=3SE6FWJ8TO75N&keywords=technologies+of+the+new+real&qid=1647026569&sprefix=technologies+of+the+new+real%2Caps%2C85&sr=8-1  
 
 
-------------------------------------------------------------------------------------------
 2021  
 2021  
 2021  
