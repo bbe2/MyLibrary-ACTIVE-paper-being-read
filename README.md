@@ -1,13 +1,12 @@
 # My Reference Library (see library.pdf for all texts)  
 2022
 # thoughtfully curated and built over time; key refernece to dig deep
---
+-  
 (R)(tidyverse)(inference) Statistical Infernace via Data Science Jan-2021  
     A Moderndive into R and the Tidyverse - www.moderndive - Drs Chester Ismay and Albert Y Kim (smith)  
     if buy amazon used code ADC22  
---
---
-
+-  
+-  
 (mid march - working on sxummarizing symbolic modeling  
 (rnn)(03-12) A neural programming language for the reservoir Computer, KimJ, BassettD 03-22-22  
 --
