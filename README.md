@@ -1,18 +1,17 @@
 # My Reference Library (see library.pdf for all texts)  
 2022
-# thoughtfully curated and built over time; key refernece to dig deep
--  
+thoughtfully curated and built over time; key refernece to dig deep  
+
 (R)(tidyverse)(inference) Statistical Infernace via Data Science Jan-2021  
     A Moderndive into R and the Tidyverse - www.moderndive - Drs Chester Ismay and Albert Y Kim (smith)  
     if buy amazon used code ADC22  
--  
--  
+
 (mid march - working on sxummarizing symbolic modeling  
 (rnn)(03-12) A neural programming language for the reservoir Computer, KimJ, BassettD 03-22-22  
---
+
 Currently reading - HP Lovecraft 'the complete fiction'  
 Buildng out knowledge and learning inventory of 'technologies of the new real' - arthur kroker  
---
+
 https://www.amazon.com/Technologies-New-Real-Contagion-Social/dp/1487540221/ref=sr_1_1?crid=3SE6FWJ8TO75N&keywords=technologies+of+the+new+real&qid=1647026569&sprefix=technologies+of+the+new+real%2Caps%2C85&sr=8-1  
 
 
