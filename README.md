@@ -7,7 +7,7 @@
 >>>>>>The singularity is near - Ray Kurzweil <--everyone should read this  !
 
 
->10 Influential Text Books (not ordered)  
+>10 Influential Text Books (not ordered - well top 5 are amazing!)  
 >>Deep Learning w Python, 2nd Francois Chollet  
 >>Python Machine Learning by Example 3rd Yuxi Liu  
 >>Deep Learning. Goodfellow, Bengio, Courville. MIT Press, 2016  
