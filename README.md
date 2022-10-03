@@ -2,9 +2,9 @@
 
 >>Current Readings 4Q2022  
 >>>Meaningful Coincidences - Dr. Beitman  
->>>Technology of the New Real - Kroker (sociology x info.TECH critical theory)  
->>>Living with Frankenstein- history and destiny of machine consciousness - s. schkolne  
->>>>The singularity is near - Ray Kurzweil <--everyone should read this  !
+>>>>Technology of the New Real - Kroker (sociology x info.TECH critical theory)  
+>>>>>Living with Frankenstein- history and destiny of machine consciousness - s. schkolne  
+>>>>>>The singularity is near - Ray Kurzweil <--everyone should read this  !
 
 
 >10 Influential Text Books (not ordered)  
