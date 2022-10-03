@@ -1,0 +1,78 @@
+AWS - Training Links for MAchine Learning w SageMaker
+--
+--
+--
+--> deep data for AWS studying
+--AWS Chief evangelist = Jeff Barr (vid link below)  
+-- Julien Simon, Chris Fregly, Antje Barth (she is great) - deep skill + bought books  
+--Emily Weber, Alex McClure (aws tech specialist + trainers)  
+-----my library -----------------------  
+-- Learn Amazon Sagemaker - Julien Simon  
+-- data science on aws - chris fregly + antje barth (really like them on video)  
+  
+Twitch - SageMaker Fridaays - 2021  
+---https://www.twitch.tv/videos/649236262  
+1) https://www.twitch.tv/videos/635522018
+2) https://www.twitch.tv/videos/649236262
+3) https://www.twitch.tv/videos/662384439?collection=Cu-5q26QExbOBQ
+4) https://www.twitch.tv/videos/682721869?collection=Cu-5q26QExbOBQ
+5) https://www.twitch.tv/videos/682721869?collection=Cu-5q26QExbOBQ
+6) https://www.twitch.tv/videos/710088245?collection=Cu-5q26QExbOBQ
+7) https://www.twitch.tv/videos/724202901?collection=Cu-5q26QExbOBQ
+
+
+-----------------------------> check out Jeff Barr @ 55 min time point https://www.twitch.tv/videos/635522018![image](https://user-images.githubusercontent.com/59778456/155530788-971dbe64-7cea-4e9b-a8fb-fe662dbea198.png)  
+
+Github w Sagemaker examples  
+https://github.com/awslabs/amazon-sagemaker-examples  
+S1E1 ~ 17min![image](https://user-images.githubusercontent.com/59778456/155530570-54d600ce-57bb-4bfc-8a0f-89845fa26d96.png)  
+-----------------------------------------------------------------------
+https://aws.amazon.com/sagemaker/developer-resources/
+  
+
+https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-deployment.html
+
+https://iloveaws.com/ml.html
+
+https://docs.aws.amazon.com/greengrass/latest/developerguide/image-classification-connector.html
+
+https://github.com/aws-samples/amazon-sagemaker-aws-greengrass-custom-object-detection-model
+
+
+https://docs.aws.amazon.com/greengrass/latest/developerguide/image-classification-connector.html
+
+https://aws.amazon.com/getting-started/
+
+https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/
+
+https://towardsdatascience.com/a-quick-guide-to-distributed-training-with-tensorflow-and-horovod-on-amazon-sagemaker-dae18371ef6e
+
+h: https://towardsdatascience.com/how-to-debug-machine-learning-models-to-catch-issues-early-and-often-5663f2b4383b
+
+https://github.com/awslabs/amazon-sagemaker-examples/tree/master/sagemaker-debugger
+
+
+Another resource - video on debugger talk I gave at NVIDIA GTC conference: https://developer.nvidia.com/gtc/2020/video/s22493
+
+
+hyperparameter optimization process can be complex, but SageMaker manages all the complexity for you. By simply specifying range of hyperparameters, SageMaker will try different options and select the best one for you. Some more info in the doc: https://docs.aws.amazon.com/sagemaker/latest/dg/automatic-model-tuning-how-it-works.html
+
+
+https://aws.amazon.com/blogs/machine-learning/pruning-machine-learning-models-with-amazon-sagemaker-debugger-and-amazon-sagemaker-experiments/
+
+From <https://www.twitch.tv/aws/video/649236262> 
+
+
+https://github.com/awslabs/amazon-sagemaker-examples/tree/master/sagemaker-debugger
+
+From <https://www.twitch.tv/aws/video/649236262> 
+
+
+• https://www.linkedin.com/in/shashankprasanna/
+• 55:12
+From <https://www.twitch.tv/aws/video/649236262> 
+
+
+Train and Tune a deep learning model at scale with sagemakers
+https://aws.amazon.com/getting-started/hands-on/train-tune-deep-learning-model-amazon-sagemaker/
+![image](https://user-images.githubusercontent.com/59778456/155531591-94eeebfa-39f8-4fda-8181-3aed976da4c3.png)
