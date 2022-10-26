@@ -1,3 +1,6 @@
+recent interesting news:
+https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/
+
 # My Reference Library (see library.pdf for all texts)  
 
 >>Current Readings 4Q2022  
