@@ -23,3 +23,5 @@ https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-
 >>>>>Probability, Statistics, and Data A Fresh Approach Using R  Darrin Speegle, Bryan Clair  
 
 ![my-library-2022](https://user-images.githubusercontent.com/59778456/193679900-04ccd057-71b9-4d4b-9a72-f1d85842c3d5.jpg)
+
+![singularity_2045](https://user-images.githubusercontent.com/59778456/199331003-d078b3c8-7ebf-4693-93b4-18857c071630.JPG)
