@@ -4,10 +4,12 @@ https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-
 
 # My Reference Library (see library.pdf for all texts)  
 
->>Current Readings 4Q2022  
+>>Current Readings Novmeber 2022
 >>NEW
 >>> Advanced R 2nd edition (wickham) expanding object knowledge and this does it  
 >>> https://adv-r.hadley.nz/  
+>>> Mastering Shiny (apparently can make excellent residual income doing this work)  
+>>> https://mastering-shiny.org/  
 -------------
 
 >> 4Q22 read + Ceasar thumbs up or down ?
