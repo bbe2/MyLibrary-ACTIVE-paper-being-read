@@ -1,6 +1,6 @@
 recent interesting:  
 https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
-
+https://www.amazon.science/publications       => AWS research papers
 
 # My Reference Library (see library.pdf for all texts)  
 
