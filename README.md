@@ -19,6 +19,9 @@ https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-
 >>>> Technology of the New Real - Kroker (sociology x info.TECH critical theory) => Excellent !  
 >>>>> Living with Frankenstein-history/destiny machine consciousness schkolne   => bit of a rant, say no  
 >>>>>> The singularity is near - Ray Kurzweil <--everyone should read this ! ==> cant wait for his new book
+----------------
+
+##**recommend abe for USED books** https://www.abebooks.com/
 
 -----------------
 > 10 Influential Text Books (not ordered - well top 5 are amazing!)  
