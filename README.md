@@ -21,7 +21,7 @@ https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-
 >>>>>> The singularity is near - Ray Kurzweil <--everyone should read this ! ==> cant wait for his new book
 ----------------
 
-##**recommend abe for USED books** https://www.abebooks.com/
+**recommend abe for USED books** https://www.abebooks.com/
 
 -----------------
 > 10 Influential Text Books (not ordered - well top 5 are amazing!)  
@@ -39,4 +39,7 @@ https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-
 ![my-library-2022](https://user-images.githubusercontent.com/59778456/193679900-04ccd057-71b9-4d4b-9a72-f1d85842c3d5.jpg)
 
 >from Kurweil - listen to the podcast with LexFridman here: https://lexfridman.com/ray-kurzweil/
+>> **before reading consider his strategy. back in 2006 he calculates total bits in the universe**  
+>> **to me, similar 1st principal thinking as einstein figuring out how fast light travels vs eminating all around us**  
+
 ![singularity_2045](https://user-images.githubusercontent.com/59778456/199331003-d078b3c8-7ebf-4693-93b4-18857c071630.JPG)
