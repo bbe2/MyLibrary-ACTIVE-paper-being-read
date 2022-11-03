@@ -1,13 +1,13 @@
 recent interesting:  
 https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
-https://www.amazon.science/publications       => AWS research papers
-home of BERT for tensorflow
-https://github.com/tensorflow/models/tree/master/official#natural-language-processing
+https://www.amazon.science/publications       => AWS research papers  
+home of BERT for tensorflow  
+https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
 
 # My Reference Library (see library.pdf for all texts)  
 
->>Current Readings Novmeber 2022
->>NEW
+>>Current Readings Novmeber 2022  
+>>NEW  
 >>> Advanced R 2nd edition (wickham) expanding object knowledge and this does it  
 >>> https://adv-r.hadley.nz/  
 >>> Mastering Shiny (apparently can make excellent residual income doing this work)  
@@ -26,7 +26,7 @@ https://github.com/tensorflow/models/tree/master/official#natural-language-proce
 **recommend abe for USED books** https://www.abebooks.com/
 
 -----------------
-> 10 Influential Text Books (not ordered - well top 5 are amazing!)  
+> 10 Influential Text Books (not ordered, top 5 are amazing!)  
 >> Deep Learning w Python, 2nd Francois Chollet  
 >> Python Machine Learning by Example 3rd Yuxi Liu  
 >> Deep Learning. Goodfellow, Bengio, Courville. MIT Press, 2016  => seminal work  
