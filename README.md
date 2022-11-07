@@ -4,8 +4,6 @@ https://www.amazon.science/publications       => AWS research papers
 home of BERT for tensorflow  
 https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
 
-# My Reference Library (see library.pdf for all texts)  
-
 >>Current Readings Novmeber 2022  
 >>NEW  
 >>> Advanced R 2nd edition (wickham) expanding object knowledge and this does it  
@@ -14,13 +12,15 @@ https://github.com/tensorflow/models/tree/master/official#natural-language-proce
 >>> https://mastering-shiny.org/  
 -------------
 
->> 4Q22 read + Ceasar thumbs up or down ?
->>> Meaningful Coincidences - Dr. Beitman  _________________________________________=> amazingly terrifying!  
->>> The magic of believing = Claude Bristol ________________________________________=> excellent !
+>> 4Q22 read + Ceasar thumbs up or down ?  
+>> Alien in the mirror, R. Fitzgeral, forward J. Vallee___________________ => evidence is rather terrifying, must read!  
+>>> Meaningful Coincidences - Dr. Beitman  _________________________________________=> amazing !   
+>>> The magic of believing = Claude Bristol ________________________________________=> excellent !  
 
 >>>> Technology of the New Real - Kroker (sociology x info.TECH critical theory) => Excellent !  
 >>>>> Living with Frankenstein-history/destiny machine consciousness schkolne   => bit of a rant, say no  
 >>>>>> The singularity is near - Ray Kurzweil <--everyone should read this ! ==> cant wait for his new book
+>>> The devil is afraid of me , Fr. G. Amorth <-- a must read to expand knowledge of beezlebub  
 ----------------
 
 **recommend abe for USED books** https://www.abebooks.com/
