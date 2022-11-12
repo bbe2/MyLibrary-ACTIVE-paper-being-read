@@ -29,7 +29,7 @@ https://github.com/tensorflow/models/tree/master/official#natural-language-proce
 ----------------
 
 
-Edward Tufte  
+**Edward Tufte**  
 https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf  
 ![image](https://user-images.githubusercontent.com/59778456/201488986-2bc4873d-a9ff-47d0-9380-c039a3b3fb8c.png)
 
@@ -49,7 +49,8 @@ https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
 
 ![my-library-2022](https://user-images.githubusercontent.com/59778456/193679900-04ccd057-71b9-4d4b-9a72-f1d85842c3d5.jpg)
 
->from Kurweil - listen to the podcast with LexFridman here: https://lexfridman.com/ray-kurzweil/
+**Ray Kurweil**  
+> podcast with LexFridman https://lexfridman.com/ray-kurzweil/  
 >> **before reading consider his strategy. back in 2006 he calculates total bits in the universe**  
 >> **to me, similar 1st principal thinking as einstein figuring out how fast light travels vs eminating all around us**  
 
