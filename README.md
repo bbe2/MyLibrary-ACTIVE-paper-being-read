@@ -4,6 +4,7 @@ https://www.amazon.science/publications       => AWS research papers
 home of BERT for tensorflow  
 https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
 
+
 >>Current Readings Novmeber 2022  
 >>NEW  
 >>> Advanced R 2nd edition (wickham) expanding object knowledge and this does it  
