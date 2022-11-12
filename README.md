@@ -1,3 +1,5 @@
+**recommend abe for USED books** https://www.abebooks.com/
+
 recent interesting:  
 https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
 https://www.amazon.science/publications       => AWS research papers  
@@ -7,6 +9,7 @@ https://github.com/tensorflow/models/tree/master/official#natural-language-proce
 
 >>Current Readings Novmeber 2022  
 >>NEW  
+
 >>> Advanced R 2nd edition (wickham) expanding object knowledge and this does it  
 >>> https://adv-r.hadley.nz/  
 >>> Mastering Shiny (apparently can make excellent residual income doing this work)  
@@ -22,9 +25,14 @@ https://github.com/tensorflow/models/tree/master/official#natural-language-proce
 >>>>> Living with Frankenstein-history/destiny machine consciousness schkolne   => bit of a rant, say no  
 >>>>>> The singularity is near - Ray Kurzweil <--everyone should read this ! ==> cant wait for his new book
 >>> The devil is afraid of me , Fr. G. Amorth <-- a must read to expand knowledge of beezlebub  
+
 ----------------
 
-**recommend abe for USED books** https://www.abebooks.com/
+
+Edward Tufte  
+https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf  
+![image](https://user-images.githubusercontent.com/59778456/201488986-2bc4873d-a9ff-47d0-9380-c039a3b3fb8c.png)
+
 
 -----------------
 > 10 Influential Text Books (not ordered, top 5 are amazing!)  
