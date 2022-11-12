@@ -51,7 +51,8 @@ https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
 
 **Ray Kurweil**  
 > podcast with LexFridman https://lexfridman.com/ray-kurzweil/  
->> **before reading consider his strategy. back in 2006 he calculates total bits in the universe**  
->> **to me, similar 1st principal thinking as einstein figuring out how fast light travels vs eminating all around us**  
+>> **Consider Mr. Kurweil's strategy**  
+>> In 2006 he calculates total bits in the universe to support his futurist arguments.  
+>> From my lens, this 1st principal thinking is like Einstein figuring out how fast light travels vs it eminating all around us**  
 
 ![singularity_2045](https://user-images.githubusercontent.com/59778456/199331003-d078b3c8-7ebf-4693-93b4-18857c071630.JPG)
