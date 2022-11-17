@@ -1,5 +1,9 @@
 **recommend abe for USED books** https://www.abebooks.com/
 
+## Lex interviewed Kate and it was amazing !
+https://www.youtube.com/watch?v=7KTbEn7PiaY
+![IMG_6078](https://user-images.githubusercontent.com/59778456/202332163-9eca1c96-a19d-4809-bffd-1ec1535f8d61.jpg)
+
 recent interesting:  
 https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
 https://www.amazon.science/publications       => AWS research papers  
