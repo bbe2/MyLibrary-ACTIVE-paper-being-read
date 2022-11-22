@@ -9,6 +9,7 @@ https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-
 https://www.amazon.science/publications       => AWS research papers  
 home of BERT for tensorflow  
 https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
+machine learning collection: https://github.com/josephmisiti/awesome-machine-learning
 
 
 >Current Readings Novmeber 2022  
