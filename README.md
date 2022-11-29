@@ -57,3 +57,8 @@ https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
 >> From my lens, this 1st principal thinking is like Einstein figuring out how fast light travels vs it eminating all around us**  
 
 ![singularity_2045](https://user-images.githubusercontent.com/59778456/199331003-d078b3c8-7ebf-4693-93b4-18857c071630.JPG)
+
+# GEMs
+
+![C and Prolog](https://user-images.githubusercontent.com/59778456/204638249-815cbebb-a84c-4096-ac83-9909826f3609.jpg)
+
