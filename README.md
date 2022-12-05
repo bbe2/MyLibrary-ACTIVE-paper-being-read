@@ -72,7 +72,7 @@ https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
 
 -----------------
 
-## timewarp ! - and "yes" I own these  
+## timewarp ! - Yes! I own these.  
 
 ![C and Prolog](https://user-images.githubusercontent.com/59778456/204638249-815cbebb-a84c-4096-ac83-9909826f3609.jpg)
 
