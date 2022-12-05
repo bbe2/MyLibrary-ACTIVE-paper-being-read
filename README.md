@@ -27,14 +27,16 @@ Book summary: 12/5/22 coming as finishedtoday
 
 -------------
 
-### 4Q22 read w Ceasar thumbs up or down  
-• Living with Frankenstein-history/destiny machine consciousness schkolne   => bit of a rant, but informative
-• The singularity is near - Ray Kurzweil <--everyone should read this ! ==> cant wait for his new book  
+### 4Q22 read with Ceasarean thumbs up or down  
+• the new breed - Kate Darling__________________________________________ => a must if study robotics  
+• The singularity is near - Ray Kurzweil <--everyone should read this ! ==> cant wait for his new book summer 2023  
 • Alien in the mirror, R. Fitzgeral, forward J. Vallee___________________ => evidence is rather terrifying, must read!  
 • Meaningful Coincidences - Dr. Beitman  _________________________________________=> amazing !   
 • The magic of believing = Claude Bristol ________________________________________=> excellent !  
 • Technology of the New Real - Kroker (sociology x info.TECH critical theory) => Excellent !  
-• The devil is afraid of me , Fr. G. Amorth <-- a must read to expand knowledge of beezlebub  
+• The devil is afraid of me , Fr. G. Amorth <-- a must read to expand knowledge of beezlebub imps  
+• Living with Frankenstein-history/destiny machine consciousness schkolne_________=> informative rant, try to find online  
+
 
 ----------------
 
