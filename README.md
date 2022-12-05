@@ -7,7 +7,6 @@ Her latest book ==? Highly recommend
 • https://www.amazon.com/New-Breed-History-Animals-Reveals/dp/1250838428/ref=sr_1_4?crid=NP4RF1986YFP&keywords=the+new+breed&qid=1670262332&sprefix=the+new+bree%2Caps%2C187&sr=8-4
 Book summary: 12/5/22 coming as finishedtoday
 
-• ![IMG_6078](https://user-images.githubusercontent.com/59778456/202332163-9eca1c96-a19d-4809-bffd-1ec1535f8d61.jpg)  
 
 #### **Random recent miscellaneous findings**    
 • https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
