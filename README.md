@@ -15,9 +15,9 @@ Book summary: 12/5/22 coming as finishedtoday
 • https://www.amazon.science/publications       => AWS research papers  
 • home of BERT for tensorflow  
 • https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
-• machine learning collection: https://github.com/josephmisiti/awesome-machine-learning
-• super use of Github with GPUs for running machine learning jupyter notebooks
-• https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/
+• machine learning collection: https://github.com/josephmisiti/awesome-machine-learning  
+• super use of Github with GPUs for running machine learning jupyter notebooks  
+• https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/  
 
 #### **Planned Reading for Dec 22 / Jan 2023**  
 • Advanced R 2nd edition (wickham) expanding object knowledge and this does it  
