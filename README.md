@@ -1,14 +1,16 @@
 • **Used books recommendation ==>** https://www.abebooks.com/  
 
-Author: Kate Darling - robotic to human structure studies
+Author: Kate Darling - robotic to human structure studies  
 • ## Lex interviewed Kate and it was amazing !  
 • https://www.youtube.com/watch?v=7KTbEn7PiaY  
-Her latest book ==? Highly recommend
-• https://www.amazon.com/New-Breed-History-Animals-Reveals/dp/1250838428/ref=sr_1_4?crid=NP4RF1986YFP&keywords=the+new+breed&qid=1670262332&sprefix=the+new+bree%2Caps%2C187&sr=8-4
+
+• https://www.amazon.com/New-Breed-History-Animals-Reveals/dp/1250838428/ref=sr_1_4?crid=NP4RF1986YFP&keywords=the+new+breed&qid=1670262332&sprefix=the+new+bree%2Caps%2C187&sr=8-4  
+Her latest book ==? Highly recommend. history robots, animal human interactions, use of animals as models for robots  
+Robots looking like humans was created by humans. Robots are a different species whose form is adapting.  
 Book summary: 12/5/22 coming as finishedtoday
 
 
-#### **Random recent miscellaneous findings**    
+#### **Random recent findings**    
 • https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
 • https://www.amazon.science/publications       => AWS research papers  
 • home of BERT for tensorflow  
@@ -24,7 +26,7 @@ Book summary: 12/5/22 coming as finishedtoday
 -------------
 
 ### 4Q22 read w Ceasar thumbs up or down  
-• Living with Frankenstein-history/destiny machine consciousness schkolne   => bit of a rant, say no  
+• Living with Frankenstein-history/destiny machine consciousness schkolne   => bit of a rant, but informative
 • The singularity is near - Ray Kurzweil <--everyone should read this ! ==> cant wait for his new book  
 • Alien in the mirror, R. Fitzgeral, forward J. Vallee___________________ => evidence is rather terrifying, must read!  
 • Meaningful Coincidences - Dr. Beitman  _________________________________________=> amazing !   
@@ -34,9 +36,10 @@ Book summary: 12/5/22 coming as finishedtoday
 
 ----------------
 
-#### **Edward Tufte** <== a necessary powerpoint essential  
+#### **Edward Tufte** <== powerpoint training essential  
 https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf  
 ![image](https://user-images.githubusercontent.com/59778456/201488986-2bc4873d-a9ff-47d0-9380-c039a3b3fb8c.png)
+• at harvard university extension school I did not have "1" professor who used powerpoint
 
 
 -----------------
