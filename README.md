@@ -39,7 +39,8 @@ Book summary: 12/5/22 coming as finishedtoday
 #### **Edward Tufte** <== powerpoint training essential  
 https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf  
 ![image](https://user-images.githubusercontent.com/59778456/201488986-2bc4873d-a9ff-47d0-9380-c039a3b3fb8c.png)
-• at harvard university extension school I did not have "1" professor who used powerpoint
+• when I went to harvard university extension school, not one Professor used powerpoint. Any nine of them could have. 
+#lectureTRAININGrocks
 
 
 -----------------
