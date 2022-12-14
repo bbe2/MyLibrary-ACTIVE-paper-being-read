@@ -1,15 +1,18 @@
 • **Used books recommendation ==>** https://www.abebooks.com/  
 
-## Latest Book
-Author: Kate Darling, The New Breed
-Topic:  Use of animal models as robotic integration, companions, instead humaniods vs robots.
-• ## Lex interviewed Kate and it was amazing !  
-• https://www.youtube.com/watch?v=7KTbEn7PiaY  
-• https://www.amazon.com/New-Breed-History-Animals-Reveals/dp/1250838428/ref=sr_1_4?crid=NP4RF1986YFP&keywords=the+new+breed&qid=1670262332&sprefix=the+new+bree%2Caps%2C187&sr=8-4  
-## Her latest book ==? Highly recommend. history robots, animal human interactions, use of animals as models for robots  
-Robots looking like humans was created by humans. Robots are a different species whose form is adapting.  
-Book summary: 12/5/22 coming as finishedtoday
+## Latest Book  
+Author: Kate Darling, The New Breed  
+Topic:  Use of animal models as approach robotic integration. Companions, instead humaniods vs robots.  
 
+### Overview=> history robots, animal human interactions, use of animals as models for robots  
+• Robots looking like humans was created by humans.  
+• Robots are a different species whose form is adapting.  
+• Book summary: 12/22 coming as finishedtoday  
+#### bottomline = recommend  
+## Lex interview w Kate is Amazing ! https://www.youtube.com/watch?v=7KTbEn7PiaY  
+https://www.amazon.com/New-Breed-History-Animals-Reveals/dp/1250838428/ref=sr_1_4?crid=NP4RF1986YFP&keywords=the+new+breed&qid=1670262332&sprefix=the+new+bree%2Caps%2C187&sr=8-4  
+
+-----------------------
 
 #### **Random recent findings**    
 • https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
@@ -44,7 +47,7 @@ Book summary: 12/5/22 coming as finishedtoday
 #### **Edward Tufte** <== powerpoint training essential  
 https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf  
 ![image](https://user-images.githubusercontent.com/59778456/201488986-2bc4873d-a9ff-47d0-9380-c039a3b3fb8c.png)
-• when I went to harvard university extension school, not one Professor used powerpoint. Any nine of them could have. 
+• When I went to Harvard University Extension school, not one Professor used powerpoint. Any one of the nine professors could have. 
 #lectureTRAININGrocks
 
 
