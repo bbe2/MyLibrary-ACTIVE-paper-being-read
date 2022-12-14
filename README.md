@@ -9,10 +9,20 @@ Topic:  Use of animal models as approach robotic integration. Companions, instea
 • Robots are a different species whose form is adapting.  
 • Book summary: 12/22 coming as finishedtoday  
 #### bottomline = recommend  
-## Lex interview w Kate is Amazing ! https://www.youtube.com/watch?v=7KTbEn7PiaY  
-https://www.amazon.com/New-Breed-History-Animals-Reveals/dp/1250838428/ref=sr_1_4?crid=NP4RF1986YFP&keywords=the+new+breed&qid=1670262332&sprefix=the+new+bree%2Caps%2C187&sr=8-4  
+
+#### 👀-> Lex interview w Kate is Amazing ! https://www.youtube.com/watch?v=7KTbEn7PiaY  
+
+-- https://www.amazon.com/New-Breed-History-Animals-Reveals/dp/1250838428/ref=sr_1_4?crid=NP4RF1986YFP&keywords=the+new+breed&qid=1670262332&sprefix=the+new+bree%2Caps%2C187&sr=8-4  
 
 -----------------------
+
+#### **Planned Reading for Dec 22 / Jan 2023**  
+• Advanced R 2nd edition (wickham) expanding object knowledge and this does it  
+• https://adv-r.hadley.nz/  
+• Mastering Shiny (apparently can make excellent residual income doing this work)  
+• https://mastering-shiny.org/  
+
+---------------
 
 #### **Random recent findings**    
 • https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
@@ -23,11 +33,7 @@ https://www.amazon.com/New-Breed-History-Animals-Reveals/dp/1250838428/ref=sr_1_
 • https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/  
 (notebook in article: https://github.com/sethjuarez/tlaloc/blob/main/notebooks/generate.ipynb)  
 
-#### **Planned Reading for Dec 22 / Jan 2023**  
-• Advanced R 2nd edition (wickham) expanding object knowledge and this does it  
-• https://adv-r.hadley.nz/  
-• Mastering Shiny (apparently can make excellent residual income doing this work)  
-• https://mastering-shiny.org/  
+
 
 -------------
 
