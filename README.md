@@ -1,11 +1,12 @@
 • **Used books recommendation ==>** https://www.abebooks.com/  
 
-Author: Kate Darling - robotic to human structure studies  
+## Latest Book
+Author: Kate Darling, The New Breed
+Topic:  Use of animal models as robotic integration, companions, instead humaniods vs robots.
 • ## Lex interviewed Kate and it was amazing !  
 • https://www.youtube.com/watch?v=7KTbEn7PiaY  
-
 • https://www.amazon.com/New-Breed-History-Animals-Reveals/dp/1250838428/ref=sr_1_4?crid=NP4RF1986YFP&keywords=the+new+breed&qid=1670262332&sprefix=the+new+bree%2Caps%2C187&sr=8-4  
-Her latest book ==? Highly recommend. history robots, animal human interactions, use of animals as models for robots  
+## Her latest book ==? Highly recommend. history robots, animal human interactions, use of animals as models for robots  
 Robots looking like humans was created by humans. Robots are a different species whose form is adapting.  
 Book summary: 12/5/22 coming as finishedtoday
 
