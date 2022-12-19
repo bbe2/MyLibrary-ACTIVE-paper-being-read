@@ -4,7 +4,7 @@
 Author: Kate Darling, The New Breed  
 Topic:  Use of animal models as approach robotic integration. Companions, instead humaniods vs robots.  
 
-### Overview=> history robots, animal human interactions, use of animals as models for robots  
+#### Overview=> history robots, animal human interactions, use of animals as models for robots  
 • Robots looking like humans was created by humans.  
 • Robots are a different species whose form is adapting.  
 • Book summary: 12/22 coming as finishedtoday  
@@ -24,7 +24,16 @@ Topic:  Use of animal models as approach robotic integration. Companions, instea
 
 ---------------
 
-#### **Random recent findings**    
+#### **Random recent**    
+
+#### **Experimental indications of non-classical brain functions**  
+Christian Matthias Kerskens1 and David López Pérez2,1  
+
+Recent proposals in quantum gravity have suggested that unknown systems can mediate entanglement between two known quantum systems, if the mediator itself is non-classical. This approach may be applicable to the brain, where speculations about quantum operations in consciousness and cognition have a long history. Proton spins of bulk water, which most likely interfere with any brain function, can act as the known quantum systems. If an unknown mediator exists, then NMR methods based on multiple quantum coherence (MQC) can act as an entanglement witness. However, there are doubts that today's NMR signals can contain quantum correlations in general, and specifically in the brain environment. Here, we used a witness protocol based on zero quantum coherence (ZQC) where we minimized the classical signals to circumvent the NMR detection limits for quantum correlation. For short repetitive periods, we found evoked signals in most parts of the brain, whereby the temporal appearance resembled heartbeat-evoked potentials (HEPs). We found that those signals had no correlates with any classical NMR contrast. Similar to HEPs, the evoked signal depended on conscious awareness. Consciousness-related or electrophysiological signals are unknown in NMR. Remarkably, these signals only appeared if the local properties of the magnetization were reduced. Our findings suggest that we may have witnessed entanglement mediated by consciousness-related brain functions. Those brain functions must then operate non-classically, which would mean that consciousness is non-classical.  
+
+https://iopscience.iop.org/article/10.1088/2399-6528/ac94be  
+[(2022)(quantum) Kerskens_2022_J._Phys._Commun._6_105001.pdf](https://github.com/bbe2/my_library/files/10260339/2022.quantum.Kerskens_2022_J._Phys._Commun._6_105001.pdf)  
+
 • https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
 • AWS research papers: https://www.amazon.science/publications
 • Tensorflow \ BERT: https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
