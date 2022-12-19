@@ -8,11 +8,8 @@ Topic:  Use of animal models as approach robotic integration. Companions, instea
 • Robots looking like humans was created by humans.  
 • Robots are a different species whose form is adapting.  
 • Book summary: 12/22 coming as finishedtoday  
-#### bottomline = recommend  
-
-#### 👀-> Lex interview w Kate is Amazing ! https://www.youtube.com/watch?v=7KTbEn7PiaY  
-
--- https://www.amazon.com/New-Breed-History-Animals-Reveals/dp/1250838428/ref=sr_1_4?crid=NP4RF1986YFP&keywords=the+new+breed&qid=1670262332&sprefix=the+new+bree%2Caps%2C187&sr=8-4  
+bottomline = **recommend**  
+-> Lex interview w Kate is Amazing ! https://www.youtube.com/watch?v=7KTbEn7PiaY  
 
 -----------------------
 
