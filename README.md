@@ -40,6 +40,9 @@ https://iopscience.iop.org/article/10.1088/2399-6528/ac94be
 (notebook in article: https://github.com/sethjuarez/tlaloc/blob/main/notebooks/generate.ipynb)  
 
 
+Mosteller, Wallace.D, Applied Bayesian and classical inference, springer 
+Once **UPON** a time in the Federalist papers  
+https://www.amazon.com/Applied-Bayesian-Classical-Inference-Federalist/dp/0387909915/ref=sr_1_1?crid=201PHRJM9D7SY&keywords=applied+bayesian+and+classical+inference&qid=1674678192&sprefix=applied+bayseian+and+classical+inference%2Caps%2C122&sr=8-1
 
 -------------
 
