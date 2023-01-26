@@ -1,13 +1,11 @@
 **sub.library pages**  
 • philosophy.by.subject https://github.com/bbe2/my_library/tree/Philosophy  
 
-----------------
 **Used books=>** https://www.abebooks.com/  
 
 **recent weird/interesting news**  
 • (nasa)(uap)________________________https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
 • AWS research papers: https://www.amazon.science/publications  
-• 
 
 **(how.to)(tech.sites)(misc.tools)**  
 • (linux)(exam)(essentials)___https://learning.lpi.org/en/learning-materials/010-160/  
@@ -114,8 +112,6 @@ https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
 ## **Esoteric, consciousness, aliens, orbs and physics**  
 • remote viewing: https://rviewer.com/  
 • fitzgerald, r., alien in the mirror =>best factual evidence of what happening last 70 years with encounters
-  
-  
   
 ### timewarp ! 
 #### curiously: the C book, esp later editions, helpful explanations for undergrads  
