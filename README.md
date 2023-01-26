@@ -22,7 +22,9 @@ bottomline = **recommend**
 ---------------
 
 #### **Random recent**    
+Kafka.data.mesh =>https://github.com/bbe2/my_library/blob/master/(data)(kafka).Data.Mesh.confluence.pdf  
 
+----------
 #### **Experimental indications of non-classical brain functions**  
 Christian Matthias Kerskens1 and David López Pérez2,1  
 
