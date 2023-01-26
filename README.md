@@ -1,17 +1,17 @@
 • **Used books=>** https://www.abebooks.com/  
 • **linux.essentials.exam** https://learning.lpi.org/en/learning-materials/010-160/  
+• https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
+• AWS research papers: https://www.amazon.science/publications
+• Tensorflow \ BERT: https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
+• Awesome! machine learning collection: https://github.com/josephmisiti/awesome-machine-learning  
+• super use of Github with GPUs for running ML jupyter notebooks  
+• https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/  
+(notebook in article): https://github.com/sethjuarez/tlaloc/blob/main/notebooks/generate.ipynb)  
+• 
+• 
+• 
+• 
 
-
-## Latest Book  
-Author: Kate Darling, The New Breed  
-Topic:  Use of animal models as approach robotic integration. Companions, instead humaniods vs robots.  
-
-#### Overview=> history robots, animal human interactions, use of animals as models for robots  
-• Robots looking like humans was created by humans.  
-• Robots are a different species whose form is adapting.  
-• Book summary: 12/22 coming as finishedtoday  
-bottomline = **recommend**  
--> Lex interview w Kate is Amazing ! https://www.youtube.com/watch?v=7KTbEn7PiaY  
 
 -----------------------
 
@@ -26,6 +26,19 @@ bottomline = **recommend**
 #### **Random recent**    
 Kafka.data.mesh =>https://github.com/bbe2/my_library/blob/master/(data)(kafka).Data.Mesh.confluence.pdf  
 
+
+
+### living w robots as parters - good read | recommend
+Author: Kate Darling, The New Breed  
+Topic:  Use of animal models as approach robotic integration. Companions, instead humaniods vs robots.  
+
+#### Overview=> history robots, animal human interactions, use of animals as models for robots  
+• Robots looking like humans was created by humans.  
+• Robots are a different species whose form is adapting.  
+• Book summary: 12/22 coming as finishedtoday  
+-> Lex interview w Kate is Amazing ! https://www.youtube.com/watch?v=7KTbEn7PiaY  
+
+
 ----------
 #### **Experimental indications of non-classical brain functions**  
 Christian Matthias Kerskens1 and David López Pérez2,1  
@@ -35,13 +48,6 @@ Recent proposals in quantum gravity have suggested that unknown systems can medi
 https://iopscience.iop.org/article/10.1088/2399-6528/ac94be  
 [(2022)(quantum) Kerskens_2022_J._Phys._Commun._6_105001.pdf](https://github.com/bbe2/my_library/files/10260339/2022.quantum.Kerskens_2022_J._Phys._Commun._6_105001.pdf)  
 
-• https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
-• AWS research papers: https://www.amazon.science/publications
-• Tensorflow \ BERT: https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
-• Awesome! machine learning collection: https://github.com/josephmisiti/awesome-machine-learning  
-• super use of Github with GPUs for running machine learning jupyter notebooks  
-• https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/  
-(notebook in article: https://github.com/sethjuarez/tlaloc/blob/main/notebooks/generate.ipynb)  
 
 
 Mosteller, Wallace.D, Applied Bayesian and classical inference, springer 
