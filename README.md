@@ -1,24 +1,21 @@
-**sub.library pages**  
-• philosophy.by.subject https://github.com/bbe2/my_library/tree/Philosophy  
 
 **Used books=>** https://www.abebooks.com/  
 
 **recent weird/interesting news**  
-• (nasa)(uap)________________________https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
-• AWS research papers: https://www.amazon.science/publications  
+• (nasa)(uap)___________https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
+• AWS research papers___https://www.amazon.science/publications  
+• 
 
 **(how.to)(tech.sites)(misc.tools)**  
-• (linux)(exam)(essentials)___https://learning.lpi.org/en/learning-materials/010-160/  
+• (linux)(exam)(essentials)__https://learning.lpi.org/en/learning-materials/010-160/  
 • (tensorflow)(BERT)__________https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
-• (NICE)(ML)(github)(GPUs)____https://github.com/josephmisiti/awesome-machine-learning  #running with jupyter notebooks  
+• (awesome)(ML)(github)(GPUs)_https://github.com/josephmisiti/awesome-machine-learning  #running with jupyter notebooks  
 • (article.github.GPU)________https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/  
 • _____(notebook.for.article__https://github.com/sethjuarez/tlaloc/blob/main/notebooks/generate.ipynb)  
 • (data)(mesh)(kafka)_________https://github.com/bbe2/my_library/blob/master/(data)(kafka).Data.Mesh.confluence.pdf  
 • (algorithms)(quality)(springer) https://link.springer.com/book/10.1007/978-3-030-54256-6  
-• (computer science)(manuals)(emporium!)  
-• _______https://www.springer.com/series/3191/books?page=1  
-• (programming)(C++)(data.structures.hash.recursion)  
-• _______http://www.uoitc.edu.iq/images/documents/informatics-institute/Competitive_exam/DataStructures.pdf  
+• (computer science)(manuals)(emporium!) https://www.springer.com/series/3191/books?page=1  
+• (machineLearning)(help.explain)(decent!) https://christophm.github.io/interpretable-ml-book/tree.html
 
 ### FIERCE SCIENTISTS
 **Dr. Langford** <msft>  
@@ -112,6 +109,8 @@ https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
 ## **Esoteric, consciousness, aliens, orbs and physics**  
 • remote viewing: https://rviewer.com/  
 • fitzgerald, r., alien in the mirror =>best factual evidence of what happening last 70 years with encounters
+  
+  
   
 ### timewarp ! 
 #### curiously: the C book, esp later editions, helpful explanations for undergrads  
