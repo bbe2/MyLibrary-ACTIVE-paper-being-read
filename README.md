@@ -1,7 +1,7 @@
 • **Used books=>** https://www.abebooks.com/  
 • **linux.essentials.exam** https://learning.lpi.org/en/learning-materials/010-160/  
-• https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
-• AWS research papers: https://www.amazon.science/publications
+• https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/   
+• AWS research papers: https://www.amazon.science/publications  
 • Tensorflow \ BERT: https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
 • Awesome! machine learning collection: https://github.com/josephmisiti/awesome-machine-learning  
 • super use of Github with GPUs for running ML jupyter notebooks  
@@ -9,9 +9,14 @@
 (notebook in article): https://github.com/sethjuarez/tlaloc/blob/main/notebooks/generate.ipynb)  
 • 
 • 
-• 
-• 
 
+
+
+### FIERCE SCIENTISTS OF THE WORLD
+
+Dr. Langford, https://hunch.net/~jl/![image](https://user-images.githubusercontent.com/59778456/214859437-6de1a244-efec-4d17-a791-052ff7ad5151.png)
+https://vowpalwabbit.org/docs/vowpal_wabbit/python/latest/tutorials/cmd_linear_regression.html
+https://gitter.im/VowpalWabbit/community?source=orgpage
 
 -----------------------
 
