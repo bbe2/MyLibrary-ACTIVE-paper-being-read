@@ -1,5 +1,5 @@
-**sub library pages**
-• philosophy.by.subject
+**sub.library pages**  
+• philosophy.by.subject https://github.com/bbe2/my_library/tree/Philosophy  
 
 ----------------
 **Used books=>** https://www.abebooks.com/  
