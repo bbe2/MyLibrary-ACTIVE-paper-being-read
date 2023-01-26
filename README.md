@@ -102,8 +102,13 @@ https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
 ![singularity_2045](https://user-images.githubusercontent.com/59778456/199331003-d078b3c8-7ebf-4693-93b4-18857c071630.JPG)
 
 -----------------
-
-## timewarp ! 
-==> curiously: the C book, esp later editions, helpful explanations for undergrads  
+## **Esoteric, consciousness, aliens, orbs and physics**  
+• remote viewing: https://rviewer.com/  
+• fitzgerald, r., alien in the mirror =>best factual evidence of what happening last 70 years with encounters
+  
+  
+  
+### timewarp ! 
+#### curiously: the C book, esp later editions, helpful explanations for undergrads  
 ![old books](https://user-images.githubusercontent.com/59778456/214867438-38cfee84-2b36-444a-a274-144e4e09ab9e.jpg)
 
