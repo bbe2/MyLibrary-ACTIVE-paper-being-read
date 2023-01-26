@@ -1,16 +1,20 @@
-• **Used books=>** https://www.abebooks.com/  
-• **linux.essentials.exam** https://learning.lpi.org/en/learning-materials/010-160/  
-• https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/   
+
+**Used books=>** https://www.abebooks.com/  
+
+**recent weird/interesting news**  
+• (nasa)(uap)________________________https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
 • AWS research papers: https://www.amazon.science/publications  
-• Tensorflow \ BERT: https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
-• Awesome! machine learning collection: https://github.com/josephmisiti/awesome-machine-learning  
-• super use of Github with GPUs for running ML jupyter notebooks  
-• https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/  
-(notebook in article): https://github.com/sethjuarez/tlaloc/blob/main/notebooks/generate.ipynb)  
 • 
 
-### FIERCE SCIENTISTS OF THE WORLD  
+**(how.to)(tech.sites)(misc.tools)**  
+• (linux)(exam)(essentials)__https://learning.lpi.org/en/learning-materials/010-160/  
+• (tensorflow)(BERT)__________https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
+• (awesome)(ML)(github)(GPUs)_https://github.com/josephmisiti/awesome-machine-learning  #running with jupyter notebooks  
+• (article.github.GPU)________https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/  
+• _____(notebook.for.article__https://github.com/sethjuarez/tlaloc/blob/main/notebooks/generate.ipynb)  
+• (data)(mesh)(kafka)_________https://github.com/bbe2/my_library/blob/master/(data)(kafka).Data.Mesh.confluence.pdf  
 
+### FIERCE SCIENTISTS
 **Dr. Langford** <msft>  
 •_____https://hunch.net/~jl/![image](https://user-images.githubusercontent.com/59778456/214859437-6de1a244-efec-4d17-a791-052ff7ad5151.png)  
 •_______https://vowpalwabbit.org/index.html  
@@ -18,22 +22,19 @@
 •_______https://gitter.im/VowpalWabbit/community?source=orgpage  
 
 **Dr Chollet** <google>  
+• (article)(on.the.measure.of.intelligence)__https://arxiv.org/abs/1911.01547  
 **Dr Ida Momennejad(learning salon)** <msft>  
-
-### FIERCE PHILOSOPHERS OF THE WORLD  
+• 
+### FIERCE PHILOSOPHERS  
 **Dr Chalmers**  
+https://consc.net/#:~:text=David%20Chalmers&text=I%20am%20a%20philosopher%20at,director%20of%20the%20PhilPapers%20Foundation.  
+• 
 
 #### **Planned Reading for Dec 22 / Jan 2023**  
 • Advanced R 2nd edition (wickham) expanding object knowledge and this does it  
 • https://adv-r.hadley.nz/  
 • Mastering Shiny (apparently can make excellent residual income doing this work)  
 • https://mastering-shiny.org/  
-
----------------
-
-#### **Random recent**    
-Kafka.data.mesh =>https://github.com/bbe2/my_library/blob/master/(data)(kafka).Data.Mesh.confluence.pdf  
-
 
 
 ### living w robots as parters - good read | recommend
