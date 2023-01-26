@@ -1,4 +1,7 @@
+**sub library pages**
+• philosophy.by.subject
 
+----------------
 **Used books=>** https://www.abebooks.com/  
 
 **recent weird/interesting news**  
