@@ -104,6 +104,6 @@ https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
 -----------------
 
 ## timewarp ! 
-
+==> curiously: the C book, esp later editions, helpful explanations for undergrads  
 ![old books](https://user-images.githubusercontent.com/59778456/214867438-38cfee84-2b36-444a-a274-144e4e09ab9e.jpg)
 
