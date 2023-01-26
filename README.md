@@ -8,17 +8,20 @@
 • https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/  
 (notebook in article): https://github.com/sethjuarez/tlaloc/blob/main/notebooks/generate.ipynb)  
 • 
-• 
 
+### FIERCE SCIENTISTS OF THE WORLD  
 
+**Dr. Langford** <msft>  
+•_____https://hunch.net/~jl/![image](https://user-images.githubusercontent.com/59778456/214859437-6de1a244-efec-4d17-a791-052ff7ad5151.png)  
+•_______https://vowpalwabbit.org/index.html  
+•_______https://vowpalwabbit.org/docs/vowpal_wabbit/python/latest/tutorials/cmd_linear_regression.html  
+•_______https://gitter.im/VowpalWabbit/community?source=orgpage  
 
-### FIERCE SCIENTISTS OF THE WORLD
+**Dr Chollet** <google>  
+**Dr Ida Momennejad(learning salon)** <msft>  
 
-Dr. Langford, https://hunch.net/~jl/![image](https://user-images.githubusercontent.com/59778456/214859437-6de1a244-efec-4d17-a791-052ff7ad5151.png)
-https://vowpalwabbit.org/docs/vowpal_wabbit/python/latest/tutorials/cmd_linear_regression.html
-https://gitter.im/VowpalWabbit/community?source=orgpage
-
------------------------
+### FIERCE PHILOSOPHERS OF THE WORLD  
+**Dr Chalmers**  
 
 #### **Planned Reading for Dec 22 / Jan 2023**  
 • Advanced R 2nd edition (wickham) expanding object knowledge and this does it  
@@ -44,14 +47,9 @@ Topic:  Use of animal models as approach robotic integration. Companions, instea
 -> Lex interview w Kate is Amazing ! https://www.youtube.com/watch?v=7KTbEn7PiaY  
 
 
-----------
-#### **Experimental indications of non-classical brain functions**  
-Christian Matthias Kerskens1 and David López Pérez2,1  
 
-Recent proposals in quantum gravity have suggested that unknown systems can mediate entanglement between two known quantum systems, if the mediator itself is non-classical. This approach may be applicable to the brain, where speculations about quantum operations in consciousness and cognition have a long history. Proton spins of bulk water, which most likely interfere with any brain function, can act as the known quantum systems. If an unknown mediator exists, then NMR methods based on multiple quantum coherence (MQC) can act as an entanglement witness. However, there are doubts that today's NMR signals can contain quantum correlations in general, and specifically in the brain environment. Here, we used a witness protocol based on zero quantum coherence (ZQC) where we minimized the classical signals to circumvent the NMR detection limits for quantum correlation. For short repetitive periods, we found evoked signals in most parts of the brain, whereby the temporal appearance resembled heartbeat-evoked potentials (HEPs). We found that those signals had no correlates with any classical NMR contrast. Similar to HEPs, the evoked signal depended on conscious awareness. Consciousness-related or electrophysiological signals are unknown in NMR. Remarkably, these signals only appeared if the local properties of the magnetization were reduced. Our findings suggest that we may have witnessed entanglement mediated by consciousness-related brain functions. Those brain functions must then operate non-classically, which would mean that consciousness is non-classical.  
 
-https://iopscience.iop.org/article/10.1088/2399-6528/ac94be  
-[(2022)(quantum) Kerskens_2022_J._Phys._Commun._6_105001.pdf](https://github.com/bbe2/my_library/files/10260339/2022.quantum.Kerskens_2022_J._Phys._Commun._6_105001.pdf)  
+
 
 
 
@@ -96,8 +94,7 @@ https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
 
 ![my-library-2022](https://user-images.githubusercontent.com/59778456/193679900-04ccd057-71b9-4d4b-9a72-f1d85842c3d5.jpg)
 
-**Ray Kurweil**  
-> podcast with LexFridman https://lexfridman.com/ray-kurzweil/  
+**Ray Kurweil**  (podcase) LexFridman https://lexfridman.com/ray-kurzweil/  
 >> **Consider Mr. Kurweil's strategy**  
 >> In 2006 he calculates total bits in the universe to support his futurist arguments.  
 >> From my lens, this 1st principal thinking is like Einstein figuring out how fast light travels vs it eminating all around us**  
@@ -106,7 +103,7 @@ https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
 
 -----------------
 
-## timewarp ! - Yes! I own these.  
+## timewarp ! 
 
-![C and Prolog](https://user-images.githubusercontent.com/59778456/204638249-815cbebb-a84c-4096-ac83-9909826f3609.jpg)
+![old books](https://user-images.githubusercontent.com/59778456/214867438-38cfee84-2b36-444a-a274-144e4e09ab9e.jpg)
 
