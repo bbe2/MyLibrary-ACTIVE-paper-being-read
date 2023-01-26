@@ -1,4 +1,6 @@
-• **Used books recommendation ==>** https://www.abebooks.com/  
+• **Used books=>** https://www.abebooks.com/  
+• **linux.essentials.exam** https://learning.lpi.org/en/learning-materials/010-160/  
+
 
 ## Latest Book  
 Author: Kate Darling, The New Breed  
