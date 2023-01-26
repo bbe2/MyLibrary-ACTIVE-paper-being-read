@@ -7,14 +7,17 @@
 • 
 
 **(how.to)(tech.sites)(misc.tools)**  
-• (linux)(exam)(essentials)__https://learning.lpi.org/en/learning-materials/010-160/  
+• (linux)(exam)(essentials)___https://learning.lpi.org/en/learning-materials/010-160/  
 • (tensorflow)(BERT)__________https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
-• (awesome)(ML)(github)(GPUs)_https://github.com/josephmisiti/awesome-machine-learning  #running with jupyter notebooks  
+• (NICE)(ML)(github)(GPUs)____https://github.com/josephmisiti/awesome-machine-learning  #running with jupyter notebooks  
 • (article.github.GPU)________https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/  
 • _____(notebook.for.article__https://github.com/sethjuarez/tlaloc/blob/main/notebooks/generate.ipynb)  
 • (data)(mesh)(kafka)_________https://github.com/bbe2/my_library/blob/master/(data)(kafka).Data.Mesh.confluence.pdf  
 • (algorithms)(quality)(springer) https://link.springer.com/book/10.1007/978-3-030-54256-6  
-• (computer science)(manuals)(emporium!) https://www.springer.com/series/3191/books?page=1  
+• (computer science)(manuals)(emporium!)  
+• _______https://www.springer.com/series/3191/books?page=1  
+• (programming)(C++)(data.structures.hash.recursion)  
+• _______http://www.uoitc.edu.iq/images/documents/informatics-institute/Competitive_exam/DataStructures.pdf  
 
 ### FIERCE SCIENTISTS
 **Dr. Langford** <msft>  
