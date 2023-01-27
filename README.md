@@ -4,8 +4,9 @@
 **Recent** new.weird.interesting
 • (nasa)(uap)___________https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
 • AWS research papers___https://www.amazon.science/publications  
-• physics.ontology.Wolfgang.Smith  
-_________https://github.com/bbe2/my_library/blob/master/(book)(wolfgang.smith)Physics.a.Science.in.quest.of.an.Ontology.pdf  
+• physics.ontology.Wolfgang.Smith >>> Physics.a.Science.in.quest.of.an.Ontology  
+________(review)__https://github.com/bbe2/my_library/blob/master/(book)(wolfgang.smith)Physics.a.Science.in.quest.of.an.Ontology.pdf  
+
 
 **(how.to)(tech.sites)(misc.tools)**  
 • (linux)(exam)(essentials)__https://learning.lpi.org/en/learning-materials/010-160/  
