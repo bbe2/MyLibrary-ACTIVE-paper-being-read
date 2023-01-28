@@ -1,5 +1,6 @@
-- My.standord.Philopshy.Artcile.library_______https://github.com/bbe2/my_library/tree/Philosophy  
-
+- my.standord.philopshy.articles__https://github.com/bbe2/my_library/tree/Philosophy  
+- my.literature.pdfs______________https://github.com/bbe2/my_library/tree/literature  
+- my.literature.
 
 **Used books=>** https://www.abebooks.com/  
 
