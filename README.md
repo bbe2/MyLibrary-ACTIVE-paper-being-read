@@ -1,7 +1,9 @@
+- My.standord.Philopshy.Artcile.library_______https://github.com/bbe2/my_library/tree/Philosophy  
+
 
 **Used books=>** https://www.abebooks.com/  
 
-**Recent** new.weird.interesting
+**Recent** new.weird.interesting  
 • (nasa)(uap)___________https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
 • AWS research papers___https://www.amazon.science/publications  
 • physics.ontology.Wolfgang.Smith >>> Physics.a.Science.in.quest.of.an.Ontology  
