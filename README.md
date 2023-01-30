@@ -3,6 +3,7 @@
 - my.library.standford.philosphy___https://github.com/bbe2/my_library/tree/philosophy  
 - my.library.standford.literature__https://github.com/bbe2/my_library/tree/literature  
 - my.lib.natural.langugage.proc____https://github.com/bbe2/my_library/tree/natural.language.processing  
+- my.library.logic_________________https://github.com/bbe2/my_library/tree/logic  
 
 **Used books=>** https://www.abebooks.com/  
 
