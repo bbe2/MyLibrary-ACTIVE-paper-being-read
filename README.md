@@ -15,22 +15,22 @@ ________(review)__https://github.com/bbe2/my_library/blob/master/(book)(wolfgang
 
 
 **how.to.tech.sites.misc.tools**  
-• linux.exam.essentials__https://learning.lpi.org/en/learning-materials/010-160/  
+• linux.exam.essentials____https://learning.lpi.org/en/learning-materials/010-160/  
 • tensorflow.BERT__________https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
-• awesome.ML.github.GPUs_https://github.com/josephmisiti/awesome-machine-learning  #running with jupyter notebooks  
-• article.github.GPU________https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/  
-• ____________GPU.notebook__https://github.com/sethjuarez/tlaloc/blob/main/notebooks/generate.ipynb)  
-• data.mesh.kafka_________https://github.com/bbe2/my_library/blob/master/(data)(kafka).Data.Mesh.confluence.pdf  
+• awesome.ML.github.GPUs___https://github.com/josephmisiti/awesome-machine-learning  #running with jupyter notebooks  
+• article.github.GPU_______https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/  
+• ____________GPU.notebook_https://github.com/sethjuarez/tlaloc/blob/main/notebooks/generate.ipynb)  
+• data.mesh.kafka__________https://github.com/bbe2/my_library/blob/master/(data)(kafka).Data.Mesh.confluence.pdf  
 • algorithms.book.high.quality.springer__https://link.springer.com/book/10.1007/978-3-030-54256-6  
 • computer science.manuals.emporium______https://www.springer.com/series/3191/books?page=1  
 • machineLearning.help.explain.decent____https://christophm.github.io/interpretable-ml-book/tree.html
 
 ### FIERCE SCIENTISTS  
 **Dr. Langford** (msft): self-stated goal is to solve machine learning  
-•_____https://hunch.net/~jl/![image](https://user-images.githubusercontent.com/59778456/214859437-6de1a244-efec-4d17-a791-052ff7ad5151.png)  
-•_______https://vowpalwabbit.org/index.html  
-•_______https://vowpalwabbit.org/docs/vowpal_wabbit/python/latest/tutorials/cmd_linear_regression.html  
-•_______https://gitter.im/VowpalWabbit/community?source=orgpage  
+•__https://hunch.net/~jl/![image](https://user-images.githubusercontent.com/59778456/214859437-6de1a244-efec-4d17-a791-052ff7ad5151.png)  
+•__https://vowpalwabbit.org/index.html  
+•__https://vowpalwabbit.org/docs/vowpal_wabbit/python/latest/tutorials/cmd_linear_regression.html  
+•___https://gitter.im/VowpalWabbit/community?source=orgpage  
 
 **Dr Chollet** (google)  
 • (article)(on.the.measure.of.intelligence)__https://arxiv.org/abs/1911.01547  
