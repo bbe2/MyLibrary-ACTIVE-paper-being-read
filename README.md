@@ -25,16 +25,16 @@ ________(review)__https://github.com/bbe2/my_library/blob/master/(book)(wolfgang
 • (computer science)(manuals)(emporium!) https://www.springer.com/series/3191/books?page=1  
 • (machineLearning)(help.explain)(decent!) https://christophm.github.io/interpretable-ml-book/tree.html
 
-### FIERCE SCIENTISTS
-**Dr. Langford** <msft>  
+### FIERCE SCIENTISTS  
+**Dr. Langford** (msft): self-stated goal is to solve machine learning  
 •_____https://hunch.net/~jl/![image](https://user-images.githubusercontent.com/59778456/214859437-6de1a244-efec-4d17-a791-052ff7ad5151.png)  
 •_______https://vowpalwabbit.org/index.html  
 •_______https://vowpalwabbit.org/docs/vowpal_wabbit/python/latest/tutorials/cmd_linear_regression.html  
 •_______https://gitter.im/VowpalWabbit/community?source=orgpage  
 
-**Dr Chollet** <google>  
+**Dr Chollet** (google)  
 • (article)(on.the.measure.of.intelligence)__https://arxiv.org/abs/1911.01547  
-**Dr Ida Momennejad(learning salon)** <msft>  
+**Dr Ida Momennejad(learning salon)** (msft)  
 • 
 ### FIERCE PHILOSOPHERS  
 **Dr Chalmers**  
