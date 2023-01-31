@@ -14,16 +14,16 @@
 ________(review)__https://github.com/bbe2/my_library/blob/master/(book)(wolfgang.smith)Physics.a.Science.in.quest.of.an.Ontology.pdf  
 
 
-**(how.to)(tech.sites)(misc.tools)**  
-• (linux)(exam)(essentials)__https://learning.lpi.org/en/learning-materials/010-160/  
-• (tensorflow)(BERT)__________https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
-• (awesome)(ML)(github)(GPUs)_https://github.com/josephmisiti/awesome-machine-learning  #running with jupyter notebooks  
-• (article.github.GPU)________https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/  
-• ____________(GPU.notebook)__https://github.com/sethjuarez/tlaloc/blob/main/notebooks/generate.ipynb)  
-• (data)(mesh)(kafka)_________https://github.com/bbe2/my_library/blob/master/(data)(kafka).Data.Mesh.confluence.pdf  
-• (algorithms.book)(high.quality)(springer) https://link.springer.com/book/10.1007/978-3-030-54256-6  
-• (computer science)(manuals)(emporium!) https://www.springer.com/series/3191/books?page=1  
-• (machineLearning)(help.explain)(decent!) https://christophm.github.io/interpretable-ml-book/tree.html
+**how.to.tech.sites.misc.tools**  
+• linux.exam.essentials__https://learning.lpi.org/en/learning-materials/010-160/  
+• tensorflow.BERT__________https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
+• awesome.ML.github.GPUs_https://github.com/josephmisiti/awesome-machine-learning  #running with jupyter notebooks  
+• article.github.GPU________https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/  
+• ____________GPU.notebook__https://github.com/sethjuarez/tlaloc/blob/main/notebooks/generate.ipynb)  
+• data.mesh.kafka_________https://github.com/bbe2/my_library/blob/master/(data)(kafka).Data.Mesh.confluence.pdf  
+• algorithms.book.high.quality.springer__https://link.springer.com/book/10.1007/978-3-030-54256-6  
+• computer science.manuals.emporium______https://www.springer.com/series/3191/books?page=1  
+• machineLearning.help.explain.decent____https://christophm.github.io/interpretable-ml-book/tree.html
 
 ### FIERCE SCIENTISTS  
 **Dr. Langford** (msft): self-stated goal is to solve machine learning  
