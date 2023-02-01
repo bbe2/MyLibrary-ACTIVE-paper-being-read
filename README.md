@@ -15,16 +15,16 @@ ________(review)__https://github.com/bbe2/my_library/blob/master/(book)(wolfgang
 
 
 **how.to.tech.sites.misc.tools**  
-• linux.exam.essentials____https://learning.lpi.org/en/learning-materials/010-160/  
-• tensorflow.BERT__________https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
-• awesome.ML.github.GPUs___https://github.com/josephmisiti/awesome-machine-learning  #running with jupyter notebooks  
-• article.github.GPU_______https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/  
-• ____________GPU.notebook_https://github.com/sethjuarez/tlaloc/blob/main/notebooks/generate.ipynb)  
-• data.mesh.kafka__________https://github.com/bbe2/my_library/blob/master/(data)(kafka).Data.Mesh.confluence.pdf  
-• algorithms.book.high.quality.springer__https://link.springer.com/book/10.1007/978-3-030-54256-6  
-• computer science.manuals.emporium______https://www.springer.com/series/3191/books?page=1  
-• machineLearning.help.explain.decent____https://christophm.github.io/interpretable-ml-book/tree.html  
-• ChatGPT.overview.by.Dr.Al-Malah______[(article)(ai)ChatGPT.Dr.Kamal.Al-Malah.ICARUS.pdf](https://github.com/bbe2/my_library/files/10562969/article.ai.ChatGPT.Dr.Kamal.Al-Malah.ICARUS.pdf)  
+• linux.exam.essentials________https://learning.lpi.org/en/learning-materials/010-160/  
+• tensorflow.BERT_____________https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
+• awesome.ML.github.GPUs__https://github.com/josephmisiti/awesome-machine-learning  #running with jupyter notebooks  
+• article.github.GPU___________https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/  
+• ____________GPU.notebook________https://github.com/sethjuarez/tlaloc/blob/main/notebooks/generate.ipynb)  
+• data.mesh.kafka____________https://github.com/bbe2/my_library/blob/master/(data)(kafka).Data.Mesh.confluence.pdf  
+• algorithms.book.high.quality.springer___https://link.springer.com/book/10.1007/978-3-030-54256-6  
+• computer science.manuals.emporium_____https://www.springer.com/series/3191/books?page=1  
+• machineLearning.help.explain.decent___https://christophm.github.io/interpretable-ml-book/tree.html  
+• ChatGPT.overview.by.Dr.Al-Malah_______[(article)(ai)ChatGPT.Dr.Kamal.Al-Malah.ICARUS.pdf](https://github.com/bbe2/my_library/files/10562969/article.ai.ChatGPT.Dr.Kamal.Al-Malah.ICARUS.pdf)  
 
 
 ### FIERCE SCIENTISTS  
