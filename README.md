@@ -23,7 +23,7 @@ ________(review)__https://github.com/bbe2/my_library/blob/master/(book)(wolfgang
 • data.mesh.kafka____________https://github.com/bbe2/my_library/blob/master/(data)(kafka).Data.Mesh.confluence.pdf  
 • algorithms.book.high.quality.springer___https://link.springer.com/book/10.1007/978-3-030-54256-6  
 • computer science.manuals.emporium_____https://www.springer.com/series/3191/books?page=1  
-• machineLearning.help.explain.decent___https://christophm.github.io/interpretable-ml-book/tree.html  
+• machineLearning.help.explain.decent____https://christophm.github.io/interpretable-ml-book/tree.html  
 • ChatGPT.overview.by.Dr.Al-Malah_______[(article)(ai)ChatGPT.Dr.Kamal.Al-Malah.ICARUS.pdf](https://github.com/bbe2/my_library/files/10562969/article.ai.ChatGPT.Dr.Kamal.Al-Malah.ICARUS.pdf)  
 
 
