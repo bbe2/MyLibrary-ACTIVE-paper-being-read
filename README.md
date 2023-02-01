@@ -24,7 +24,8 @@ ________(review)__https://github.com/bbe2/my_library/blob/master/(book)(wolfgang
 • algorithms.book.high.quality.springer__https://link.springer.com/book/10.1007/978-3-030-54256-6  
 • computer science.manuals.emporium______https://www.springer.com/series/3191/books?page=1  
 • machineLearning.help.explain.decent____https://christophm.github.io/interpretable-ml-book/tree.html
-• ChatGPT.overview.by.Dr.Al-Malah______
+• ChatGPT.overview.by.Dr.Al-Malah______[(article)(ai)ChatGPT.Dr.Kamal.Al-Malah.ICARUS.pdf](https://github.com/bbe2/my_library/files/10562969/article.ai.ChatGPT.Dr.Kamal.Al-Malah.ICARUS.pdf)  
+
 
 ### FIERCE SCIENTISTS  
 **Dr. Langford** (msft): self-stated goal is to solve machine learning  
