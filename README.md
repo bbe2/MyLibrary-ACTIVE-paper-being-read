@@ -113,6 +113,10 @@ https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
 
 ![singularity_2045](https://user-images.githubusercontent.com/59778456/199331003-d078b3c8-7ebf-4693-93b4-18857c071630.JPG)
 
+----------------
+
+![chatGPT_icarus_overview](https://user-images.githubusercontent.com/59778456/216191957-88372372-d40d-4ce6-8d6a-d19f89a7ed6b.JPG)
+
 -----------------
 ## **Esoteric, consciousness, aliens, orbs and physics**  
 • remote viewing: https://rviewer.com/  
