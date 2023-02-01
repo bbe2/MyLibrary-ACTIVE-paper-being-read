@@ -8,10 +8,9 @@
 **Used books=>** https://www.abebooks.com/  
 
 **Recent** new.weird.interesting  
-• (nasa)(uap)___________https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
-• AWS research papers___https://www.amazon.science/publications  
-• physics.ontology.Wolfgang.Smith >>> Physics.a.Science.in.quest.of.an.Ontology  
-________(review)__https://github.com/bbe2/my_library/blob/master/(book)(wolfgang.smith)Physics.a.Science.in.quest.of.an.Ontology.pdf  
+• (nasa)(uap)________________________https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
+• AWS research papers______________https://www.amazon.science/publications  
+• physics.ontology.Wolfgang.Smith__https://github.com/bbe2/my_library/blob/master/(book)(wolfgang.smith)Physics.a.Science.in.quest.of.an.Ontology.pdf  
 
 
 **how.to.tech.sites.misc.tools**  
