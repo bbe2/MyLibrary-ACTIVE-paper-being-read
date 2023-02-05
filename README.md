@@ -4,7 +4,8 @@
 - my.library.standford.literature______https://github.com/bbe2/my_library/tree/literature  
 - my.lib.natural.langugage.proc______https://github.com/bbe2/my_library/tree/natural.language.processing  
 - my.library.logic.an.AI_______________https://github.com/bbe2/my_library/tree/logic  
-- my.lib.grammar.syntax.styleguides_https://github.com/bbe2/my_library/tree/syntax_grammar_style_guides  
+- my.library.lovecraftian______________https://github.com/bbe2/my_library/tree/lovecraftian
+- my.lib.grammar.syntax.styleguides__https://github.com/bbe2/my_library/tree/syntax_grammar_style_guides  
 
 **Used books=>** https://www.abebooks.com/  
 
