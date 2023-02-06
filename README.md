@@ -8,7 +8,7 @@
 - my.library.logic.an.AI_______________https://github.com/bbe2/my_library/tree/logic  
 - my.library.lovecraftian______________https://github.com/bbe2/my_library/tree/lovecraftian
 - my.lib.grammar.syntax.styleguides__https://github.com/bbe2/my_library/tree/syntax_grammar_style_guides  
-- my.lib.wordsmithery__delicatable_polysyllabics__https://github.com/bbe2/my_library/tree/wordsmithery.an.smushy  
+- my.lib.delectable_polysyllabics___https://github.com/bbe2/my_library/tree/polysyllabics  
 
 
 **Recent** new.weird.interesting  
