@@ -8,8 +8,8 @@
 - my.library.logic.an.AI_______________https://github.com/bbe2/my_library/tree/logic  
 - my.library.lovecraftian______________https://github.com/bbe2/my_library/tree/lovecraftian
 - my.lib.grammar.syntax.styleguides__https://github.com/bbe2/my_library/tree/syntax_grammar_style_guides  
-- my.lib.delectable_polysyllabics___https://github.com/bbe2/my_library/tree/polysyllabics  
-
+- my.lib.delectable_polysyllabics______https://github.com/bbe2/my_library/tree/polysyllabics  
+- my.lib.instructional.design__________https://github.com/bbe2/my_library/tree/instructional.design  
 
 **Recent** new.weird.interesting  
 • (nasa)(uap)________________________https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
