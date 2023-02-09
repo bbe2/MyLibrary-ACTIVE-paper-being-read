@@ -7,6 +7,6 @@
 - my.lib.natural.langugage.proc______https://github.com/bbe2/my_library/tree/natural.language.processing  
 - my.library.logic.an.AI_______________https://github.com/bbe2/my_library/tree/logic  
 - my.library.lovecraftian______________https://github.com/bbe2/my_library/tree/lovecraftian
-- my.lib.grammar.syntax.styleguides__https://github.com/bbe2/my_library/tree/syntax_grammar_style_guides  
+- my.library.literature_________________https://github.com/bbe2/my_library/tree/literature  
 - my.lib.delectable_polysyllabics______https://github.com/bbe2/my_library/tree/polysyllabics  
 - my.lib.instructional.design__________https://github.com/bbe2/my_library/tree/instructional.design  
