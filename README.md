@@ -10,3 +10,4 @@
 - my.lib.grammar.syntax.styleguides__https://github.com/bbe2/my_library/tree/syntax_grammar_style_guides  
 - my.lib.delectable_polysyllabics______https://github.com/bbe2/my_library/tree/polysyllabics  
 - my.lib.instructional.design__________https://github.com/bbe2/my_library/tree/instructional.design  
+![writers](https://user-images.githubusercontent.com/59778456/217908147-daae956f-e9d3-4126-ae31-a8e279523eeb.JPG)
