@@ -11,3 +11,4 @@
 - my.lib.delectable_polysyllabics______https://github.com/bbe2/my_library/tree/polysyllabics  
 - my.lib.instructional.design__________https://github.com/bbe2/my_library/tree/instructional.design  
 
+![mishnag](https://user-images.githubusercontent.com/59778456/219216972-2f5bc3e7-19be-4a74-b10f-de698c11fe34.PNG)
