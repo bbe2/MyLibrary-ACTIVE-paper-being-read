@@ -10,7 +10,7 @@
 - my.lib.grammar.syntax.styleguides__https://github.com/bbe2/my_library/tree/syntax_grammar_style_guides  
 - my.lib.polysyllabics_______________https://github.com/bbe2/my_library/tree/polysyllabics  
 - my.lib.instructional.design__________https://github.com/bbe2/my_library/tree/instructional.design  
-
+- my.lib.judaism______________________https://github.com/bbe2/my_library/tree/judaism
 
 **Recent** new.weird.interesting  
 • (nasa)(uap)________________________https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
