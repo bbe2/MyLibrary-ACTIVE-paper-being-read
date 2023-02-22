@@ -11,7 +11,7 @@
 - my.lib.polysyllabics_______________https://github.com/bbe2/my_library/tree/polysyllabics  
 - my.lib.instructional.design__________https://github.com/bbe2/my_library/tree/instructional.design  
 - my.lib.judaism______________________https://github.com/bbe2/my_library/tree/judaism
-- my.lib.judaism______________________https://github.com/bbe2/my_library/tree/linux
+- my.lib.linux_____________________https://github.com/bbe2/my_library/tree/linux
 
 **Recent** new.weird.interesting  
 • (nasa)(uap)________________________https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
