@@ -2,6 +2,7 @@
 
 ### this page = logic and AI  
 
+![ML_AI_DL](https://user-images.githubusercontent.com/59778456/220787477-8614f639-1f54-4dbf-ad41-6937903b66e4.JPG)
 
 ![c](https://user-images.githubusercontent.com/59778456/220787368-076241e1-52b9-4c25-8402-a47f017bbc5b.PNG)  
 
