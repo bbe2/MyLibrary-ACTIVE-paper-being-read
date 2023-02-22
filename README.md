@@ -1,4 +1,12 @@
 **the best Used books=>** https://www.abebooks.com/  
+
+https://owl.purdue.edu/owl/avoiding_plagiarism/guide_overview%20.html
+- AP - https://www.apstylebook.com/?_ga=2.156527229.756556437.1677109102-720682068.1677109102  
+- Chicago - https://www.chicagomanualofstyle.org/home.html?_ga=2.156527229.756556437.1677109102-720682068.1677109102  
+- ACM (compute) - https://apastyle.apa.org/style-grammar-guidelines  
+
+![styleguide howto](https://user-images.githubusercontent.com/59778456/220788436-353566af-3474-4cd8-93e5-dac1130f36b9.PNG)
+
 ![grammar as style](https://user-images.githubusercontent.com/59778456/220787950-55ece886-d79d-49d9-8c2f-df0d980fca20.PNG)  
 
 
