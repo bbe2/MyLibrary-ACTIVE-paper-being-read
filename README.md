@@ -4,7 +4,7 @@
 #chatGPT:
 One good starting point is the Linux Documentation Project (https://tldp.org/), which has a wide range of tutorials, how-to guides, and reference materials for Linux users of all skill levels. Another option is to take a Linux course on a platform like Coursera, edX, or Udemy.  
 
-
+### library navigation  
 - my.library.home____________________https://github.com/bbe2/my_library  
 - my.library.consciousness___________https://github.com/bbe2/my_library/tree/consciousness  
 - my.library.standford.philosphy_____https://github.com/bbe2/my_library/tree/philosophy  
