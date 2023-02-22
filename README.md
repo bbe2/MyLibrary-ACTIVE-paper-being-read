@@ -1,20 +1,8 @@
-..................![lovecraft_1](https://user-images.githubusercontent.com/59778456/216794010-65d79a2e-9336-46d4-8980-b680843be4a9.JPG)
+# I am providence  
 
-# I am providence
+![lovecraftian adieu](https://user-images.githubusercontent.com/59778456/220776958-07e8c050-64ba-498d-85cf-94c493cdfcf3.PNG)  
 
-[adieu says night.pdf](https://github.com/bbe2/my_library/files/10609913/adieu.says.night.pdf)
-
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-.  
-
-
+[1.adieu says night.pdf](https://github.com/bbe2/my_library/files/10808892/1.adieu.says.night.pdf)  
 **the best Used books=>** https://www.abebooks.com/  
 
 - my.library.home____________________https://github.com/bbe2/my_library  
@@ -28,3 +16,4 @@
 - my.lib.delectable_polysyllabics______https://github.com/bbe2/my_library/tree/polysyllabics  
 - my.lib.instructional.design__________https://github.com/bbe2/my_library/tree/instructional.design  
 
+..................![lovecraft_1](https://user-images.githubusercontent.com/59778456/216794010-65d79a2e-9336-46d4-8980-b680843be4a9.JPG)
