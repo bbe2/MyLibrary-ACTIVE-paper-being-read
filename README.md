@@ -1,4 +1,4 @@
-### page = linux training source materials  
+### this page = linux training source materials  
 
 
 #chatGPT:
