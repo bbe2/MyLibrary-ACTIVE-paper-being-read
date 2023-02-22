@@ -2,6 +2,7 @@
 
 ### this page = literature and its analysis  
 
+![writers](https://user-images.githubusercontent.com/59778456/217908147-daae956f-e9d3-4126-ae31-a8e279523eeb.JPG)  
 
 ### library navigation  
 - my.library.home____________________https://github.com/bbe2/my_library  
@@ -15,5 +16,3 @@
 - my.lib.delectable_polysyllabics______https://github.com/bbe2/my_library/tree/polysyllabics  
 - my.lib.instructional.design__________https://github.com/bbe2/my_library/tree/instructional.design  
 - my.lib.linux_____________________https://github.com/bbe2/my_library/tree/linux  
-
-![writers](https://user-images.githubusercontent.com/59778456/217908147-daae956f-e9d3-4126-ae31-a8e279523eeb.JPG)
