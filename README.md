@@ -2,6 +2,10 @@
 
 ### this page = logic and AI  
 
+
+![c](https://user-images.githubusercontent.com/59778456/220787368-076241e1-52b9-4c25-8402-a47f017bbc5b.PNG)  
+
+
 ### library navigation  
 - my.library.home____________________https://github.com/bbe2/my_library  
 - my.library.consciousness___________https://github.com/bbe2/my_library/tree/consciousness  
