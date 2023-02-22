@@ -1,6 +1,6 @@
 **the best Used books=>** https://www.abebooks.com/  
 
-### this page = consciousness
+### this page = philosophy  
 
 ### library navigation  
 - my.library.home____________________https://github.com/bbe2/my_library  
