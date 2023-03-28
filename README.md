@@ -1,6 +1,3 @@
-**the best Used books=>** https://www.abebooks.com/  
-### this page = library home  
-
 ### library navigation  
 - my.library.home____________________https://github.com/bbe2/my_library  
 - my.library.consciousness___________https://github.com/bbe2/my_library/tree/consciousness  
@@ -28,19 +25,3 @@
 • computer science.manuals.emporium_____https://www.springer.com/series/3191/books?page=1  
 • machineLearning.help.explain.decent____https://christophm.github.io/interpretable-ml-book/tree.html  
 • ChatGPT.overview.by.Dr.Al-Malah_______[(article)(ai)ChatGPT.Dr.Kamal.Al-Malah.ICARUS.pdf](https://github.com/bbe2/my_library/files/10562969/article.ai.ChatGPT.Dr.Kamal.Al-Malah.ICARUS.pdf)  
-
-
-### FIERCE SCIENTISTS  
-**Dr. Langford** (msft): self-stated goal is to solve machine learning  
-•__https://hunch.net/~jl/![image](https://user-images.githubusercontent.com/59778456/214859437-6de1a244-efec-4d17-a791-052ff7ad5151.png)  
-•__https://vowpalwabbit.org/index.html  
-•__https://vowpalwabbit.org/docs/vowpal_wabbit/python/latest/tutorials/cmd_linear_regression.html  
-•___https://gitter.im/VowpalWabbit/community?source=orgpage  
-
-**Dr Chollet** (google)  
-• (article)(on.the.measure.of.intelligence)__https://arxiv.org/abs/1911.01547  
-**Dr Ida Momennejad(learning salon)** (msft)  
-• 
-### FIERCE PHILOSOPHERS  
-**Dr Chalmers**  
-https://consc.net/#:~:text=David%20Chalmers&text=I%20am%20a%20philosopher%20at,director%20of%20the%20PhilPapers%20Foundation.  
