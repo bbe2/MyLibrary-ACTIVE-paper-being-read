@@ -1,8 +1,7 @@
 **the best Used books=>** https://www.abebooks.com/  
-### this page = library home  
 
-### library navigation  
-- my.library.home____________________https://github.com/bbe2/my_library  
+- home__________________________https://github.com/bbe2/my_library  
+- AI.best.of.best______________________https://github.com/bbe2/my_library/tree/AI.the.best.of.best  
 - my.library.consciousness___________https://github.com/bbe2/my_library/tree/consciousness  
 - my.library.standford.philosphy_____https://github.com/bbe2/my_library/tree/philosophy  
 - my.library.literature_________________https://github.com/bbe2/my_library/tree/literature  
