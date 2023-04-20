@@ -3,8 +3,8 @@
 
 ### library navigation  
 
-- home____________________https://github.com/bbe2/my_library  
-- AI.best.of.best____________https://github.com/bbe2/my_library/tree/AI.best.of.the.best
+- home__________________________https://github.com/bbe2/my_library  
+- AI.best.of.best______________________https://github.com/bbe2/my_library/tree/AI.the.best.of.best  
 - my.library.consciousness___________https://github.com/bbe2/my_library/tree/consciousness  
 - my.library.standford.philosphy_____https://github.com/bbe2/my_library/tree/philosophy  
 - my.library.literature_________________https://github.com/bbe2/my_library/tree/literature  
