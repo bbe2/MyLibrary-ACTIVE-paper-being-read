@@ -1,4 +1,4 @@
-### this page = `machine.learn.data.mine`  
+### `machine.learn.data.mine`  
 => books, how.To, and so on
 
 Data.Mining textbook, strongly recommend
