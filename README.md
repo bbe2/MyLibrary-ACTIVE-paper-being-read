@@ -1,12 +1,14 @@
 😲  this page: quality programming books  
 
-> (must.have) C++ Primer 5th Edition, by Lippman, Lajoie, Moo   
-https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?crid=18GTQEVGBW184&keywords=c%2B%2B+primer&qid=1684802643&sprefix=c%2B%2B+primer%2Caps%2C112&sr=8-1  
+> 2Q23 deep work with  
+> `must.have.1` C++ Primer 5th Edition, by Lippman, Lajoie, Moo [amazon](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?crid=18GTQEVGBW184&keywords=c%2B%2B+primer&qid=1684802643&sprefix=c%2B%2B+primer%2Caps%2C112&sr=8-1 )  
+> `must.have.2` C++ pocket reference, Kyle Loudon, O'reilly <serious well done  
+> [more C](https://github.com/bbe2/my_library/edit/coding.books/README.md)  
 
-- home__________________________________https://github.com/bbe2/my_library  
-- - mu.coding________________________https://github.com/bbe2/my_library/edit/coding.books/README.md
-- - my.logic.an.AI_____________________https://github.com/bbe2/my_library/tree/logic  
-- - - my.consciousness____________https://github.com/bbe2/my_library/tree/consciousness  
+- home________________________https://github.com/bbe2/my_library  
+- - my.coding______________https://github.com/bbe2/my_library/edit/coding.books
+- - my.logic.an.AI___________https://github.com/bbe2/my_library/tree/logic  
+- - - my.consciousness__https://github.com/bbe2/my_library/tree/consciousness  
 - - - - my.standford.philosphy_https://github.com/bbe2/my_library/tree/philosophy  
 - - - my.literature_________________https://github.com/bbe2/my_library/tree/literature  
 - - my.natural.langugage.proc_______https://github.com/bbe2/my_library/tree/natural.language.processing  
