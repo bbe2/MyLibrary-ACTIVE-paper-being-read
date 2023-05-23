@@ -1,7 +1,9 @@
 😲  this page: professor.brian's curious library
 
-> `must.have` C++ Primer 5th Edition, by Lippman, Lajoie, Moo [amazon](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?crid=18GTQEVGBW184&keywords=c%2B%2B+primer&qid=1684802643&sprefix=c%2B%2B+primer%2Caps%2C112&sr=8-1 )  
-
+> 2Q23 deep work with  
+> `must.have.1` C++ Primer 5th Edition, by Lippman, Lajoie, Moo [amazon](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?crid=18GTQEVGBW184&keywords=c%2B%2B+primer&qid=1684802643&sprefix=c%2B%2B+primer%2Caps%2C112&sr=8-1 )  
+> `must.have.2` C++ pocket reference, Kyle Loudon, O'reilly <serious well done  
+> [more C](https://github.com/bbe2/my_library/edit/coding.books/README.md)  
 
 - home________________________https://github.com/bbe2/my_library  
 - - mu.coding______________https://github.com/bbe2/my_library/edit/coding.books/README.md
@@ -21,32 +23,20 @@
 - -  AI.best.of.best___________https://github.com/bbe2/my_library/tree/AI.the.best.of.best   
 -  the best Used books_________https://www.abebooks.com/   
 
-**Recent** new.weird.interesting  
-• [nasa.uap](https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/)  
-
-### 2Q.2023 deep work (newport/young) in C++
-- C++ primer, Lippman, Lajoie, Moo ______must read if penchant for programming
-- C++ pocket reference, Kyle Loudon, O'reilly <serious well done  
-- [rest here](https://github.com/bbe2/my_library/edit/coding.books/README.md)  
-
-### 4Q22 read with Ceasarean thumbs up or down  
+                                                       
+## 4Q22 read with Ceasarean thumbs up or down  
 `the new breed - Kate Darling`  love IT  !  
 `The singularity is near,Kurzweil`  <--everyone should read this ! ==> cant wait for his new book summer 2023  
 `Alien in the mirror, Fitzgeral, forward J. Vallee`________ => evidence is rather terrifying, must read!  
 `Meaningful Coincidences, Dr. Beitman`  ___=> amazing !  get your thinking in higher mode    
-`The magic of believing, Claude Bristol` _
+`The magic of believing, Claude Bristol`  
 `Technology of the New Real, Kroker` (sociology x info.TECH critical theory) => Excellent !  
-`The devil is afraid of me. Fr. G. Amorth` <-- i knew it! beezlebub imps are real  
+`The devil is afraid of me. Fr. G. Amorth` <-- i knew it! beezlebub imps are real   
 `Living with Frankenstein machine consciousness` => mixed salad  
+- [remote viewing](https://rviewer.com/ )  
+- [nasa.uap](https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/)  
 
-#### **Edward Tufte** <== powerpoint training essential  
-https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf  
-![image](https://user-images.githubusercontent.com/59778456/201488986-2bc4873d-a9ff-47d0-9380-c039a3b3fb8c.png)
-• When I went to Harvard University Extension school, not one Professor used powerpoint. Any one of the nine professors could have. 
-#lectureTRAININGrocks
-
-
-### **10 Influential Text Books (not ordered, top 5 are amazing!)**  
+## **10 Influential Text Books (not ordered, top 5 are amazing!)**  
 • Deep Learning w Python, 2nd Francois Chollet  
 • Python Machine Learning by Example 3rd Yuxi Liu  
 • Deep Learning. Goodfellow, Bengio, Courville. MIT Press, 2016  => seminal work  
@@ -58,6 +48,13 @@ https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
 • Reasoning with Data. Stanton. (solid and approachable Bayesian analysis framework w m1047 pkg too)  
 • Probability, Statistics, and Data A Fresh Approach Using R  Darrin Speegle, Bryan Clair  
 
+  
+## `Edward Tufte powerpoint fluff` i.e. dont use  
+when i went to harvard.extension not 1 of 9 professors, 3/4 full prof, used ppt  
+my students dont get ppt either  
+https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf  
+![image](https://user-images.githubusercontent.com/59778456/201488986-2bc4873d-a9ff-47d0-9380-c039a3b3fb8c.png)
+ 
 ![my-library-2022](https://user-images.githubusercontent.com/59778456/193679900-04ccd057-71b9-4d4b-9a72-f1d85842c3d5.jpg)
 
 **Ray Kurweil**  (podcase) LexFridman https://lexfridman.com/ray-kurzweil/  
@@ -66,17 +63,6 @@ https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
 >> From my lens, this 1st principal thinking is like Einstein figuring out how fast light travels vs it eminating all around us**  
 
 ![singularity_2045](https://user-images.githubusercontent.com/59778456/199331003-d078b3c8-7ebf-4693-93b4-18857c071630.JPG)
-
-----------------
-
-![chatGPT_icarus_overview](https://user-images.githubusercontent.com/59778456/216191957-88372372-d40d-4ce6-8d6a-d19f89a7ed6b.JPG)
-
------------------
-## **Esoteric, consciousness, aliens, orbs and physics**  
-• remote viewing: https://rviewer.com/  
-• fitzgerald, r., alien in the mirror =>best factual evidence of what happening last 70 years with encounters
-  
-  
   
 ### timewarp ! 
 #### curiously: the C book, esp later editions, helpful explanations for undergrads  
