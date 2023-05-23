@@ -20,17 +20,11 @@
 **Recent** new.weird.interesting  
 • (nasa)(uap)________________________https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
 
--------------
-
-
-
 
 ### 2Q.2023 active readings: C++ deep work
 - C++ primer, Lippman, Lajoie, Moo ______must read if penchant for programming
 - C++ pocket reference, Kyle Loudon, O'reilly <serious well done>  
 - rest here: 
-  
-https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?crid=18GTQEVGBW184&keywords=c%2B%2B+primer&qid=1684802643&sprefix=c%2B%2B+primer%2Caps%2C112&sr=8-1
 
 
 ### 4Q22 read with Ceasarean thumbs up or down  
@@ -44,7 +38,6 @@ https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?cri
 • Living with Frankenstein-history/destiny machine consciousness schkolne_________=> informative rant, try to find online  
 
 
-----------------
 
 #### **Edward Tufte** <== powerpoint training essential  
 https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf  
@@ -53,9 +46,7 @@ https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
 #lectureTRAININGrocks
 
 
------------------
 ### **10 Influential Text Books (not ordered, top 5 are amazing!)**  
-- 
 • Deep Learning w Python, 2nd Francois Chollet  
 • Python Machine Learning by Example 3rd Yuxi Liu  
 • Deep Learning. Goodfellow, Bengio, Courville. MIT Press, 2016  => seminal work  
