@@ -1,4 +1,3 @@
-**the best Used books=>** https://www.abebooks.com/  
 
 - home__________________________https://github.com/bbe2/my_library  
 - AI.best.of.best______________________https://github.com/bbe2/my_library/tree/AI.the.best.of.best  
@@ -15,73 +14,24 @@
 - my.lib.instructional.design__________https://github.com/bbe2/my_library/tree/instructional.design  
 - my.lib.judaism______________________https://github.com/bbe2/my_library/tree/judaism
 - my.lib.linux_____________________https://github.com/bbe2/my_library/tree/linux
+**the best Used books=>** https://www.abebooks.com/  
+
 
 **Recent** new.weird.interesting  
 • (nasa)(uap)________________________https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/  
 
-• physics.ontology.Wolfgang.Smith__https://github.com/bbe2/my_library/blob/master/(book)(wolfgang.smith)Physics.a.Science.in.quest.of.an.Ontology.pdf  
-• fun with words: https://www.grandiloquentwordoftheday.com/home/page/4  
-
-**how.to.tech.sites.misc.tools**  
-• AWS research papers______________https://www.amazon.science/publications  
-• linux.exam.essentials________https://learning.lpi.org/en/learning-materials/010-160/  
-• tensorflow.BERT_____________https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
-• awesome.ML.github.GPUs__https://github.com/josephmisiti/awesome-machine-learning  
-===> in jupyter notebooks  
-• article.github.GPU___________https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/  
-• ____________GPU.notebook________https://github.com/sethjuarez/tlaloc/blob/main/notebooks/generate.ipynb)  
-• data.mesh.kafka____________https://github.com/bbe2/my_library/blob/master/(data)(kafka).Data.Mesh.confluence.pdf  
-• algorithms.book.high.quality.springer___https://link.springer.com/book/10.1007/978-3-030-54256-6  
-• computer science.manuals.emporium_____https://www.springer.com/series/3191/books?page=1  
-• machineLearning.help.explain.decent____https://christophm.github.io/interpretable-ml-book/tree.html  
-• ChatGPT.overview.by.Dr.Al-Malah_______[(article)(ai)ChatGPT.Dr.Kamal.Al-Malah.ICARUS.pdf](https://github.com/bbe2/my_library/files/10562969/article.ai.ChatGPT.Dr.Kamal.Al-Malah.ICARUS.pdf)  
-
-
-### FIERCE SCIENTISTS  
-**Dr. Langford** (msft): self-stated goal is to solve machine learning  
-•__https://hunch.net/~jl/![image](https://user-images.githubusercontent.com/59778456/214859437-6de1a244-efec-4d17-a791-052ff7ad5151.png)  
-•__https://vowpalwabbit.org/index.html  
-•__https://vowpalwabbit.org/docs/vowpal_wabbit/python/latest/tutorials/cmd_linear_regression.html  
-•___https://gitter.im/VowpalWabbit/community?source=orgpage  
-
-**Dr Chollet** (google)  
-• (article)(on.the.measure.of.intelligence)__https://arxiv.org/abs/1911.01547  
-**Dr Ida Momennejad(learning salon)** (msft)  
-• 
-### FIERCE PHILOSOPHERS  
-**Dr Chalmers**  
-https://consc.net/#:~:text=David%20Chalmers&text=I%20am%20a%20philosopher%20at,director%20of%20the%20PhilPapers%20Foundation.  
-• 
-
-#### **Planned Reading for Dec 22 / Jan 2023**  
-• Advanced R 2nd edition (wickham) expanding object knowledge and this does it  
-• https://adv-r.hadley.nz/  
-• Mastering Shiny (apparently can make excellent residual income doing this work)  
-• https://mastering-shiny.org/  
-
-
-### living w robots as parters - good read | recommend
-Author: Kate Darling, The New Breed  
-Topic:  Use of animal models as approach robotic integration. Companions, instead humaniods vs robots.  
-
-#### Overview=> history robots, animal human interactions, use of animals as models for robots  
-• Robots looking like humans was created by humans.  
-• Robots are a different species whose form is adapting.  
-• Book summary: 12/22 coming as finishedtoday  
--> Lex interview w Kate is Amazing ! https://www.youtube.com/watch?v=7KTbEn7PiaY  
-
-
-
-
-
-
-
-
-Mosteller, Wallace.D, Applied Bayesian and classical inference, springer 
-Once **UPON** a time in the Federalist papers  
-https://www.amazon.com/Applied-Bayesian-Classical-Inference-Federalist/dp/0387909915/ref=sr_1_1?crid=201PHRJM9D7SY&keywords=applied+bayesian+and+classical+inference&qid=1674678192&sprefix=applied+bayseian+and+classical+inference%2Caps%2C122&sr=8-1
-
 -------------
+
+
+
+
+### 2Q.2023 active readings: C++ deep work
+- C++ primer, Lippman, Lajoie, Moo ______must read if penchant for programming
+- C++ pocket reference, Kyle Loudon, O'reilly <serious well done>  
+- rest here: 
+  
+https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?crid=18GTQEVGBW184&keywords=c%2B%2B+primer&qid=1684802643&sprefix=c%2B%2B+primer%2Caps%2C112&sr=8-1
+
 
 ### 4Q22 read with Ceasarean thumbs up or down  
 • the new breed - Kate Darling__________________________________________ => a must if study robotics  
@@ -105,6 +55,7 @@ https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
 
 -----------------
 ### **10 Influential Text Books (not ordered, top 5 are amazing!)**  
+- 
 • Deep Learning w Python, 2nd Francois Chollet  
 • Python Machine Learning by Example 3rd Yuxi Liu  
 • Deep Learning. Goodfellow, Bengio, Courville. MIT Press, 2016  => seminal work  
