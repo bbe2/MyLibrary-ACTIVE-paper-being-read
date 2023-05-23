@@ -12,9 +12,9 @@ https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?cri
 - - my.natural.langugage.proc_______https://github.com/bbe2/my_library/tree/natural.language.processing  
 - my.machine.learning__________________https://github.com/bbe2/my_library/tree/machine.learning   
 - - my.lovecraftian___________________https://github.com/bbe2/my_library/tree/lovecraftian  
-- - - my.grammar.syntax.styleguides__https://github.com/bbe2/my_library/tree/syntax_grammar_style_guides  
-- - - - my.polysyllabics_____________https://github.com/bbe2/my_library/tree/polysyllabics  
-- - - my.rearch.methods.biblio.X9_____https://github.com/bbe2/my_library/tree/research.methods.biblio.X9.methods  
+- - - my.gram.syntax.styleguides__https://github.com/bbe2/my_library/tree/syntax_grammar_style_guides  
+- - - - my.polysyllabics_________https://github.com/bbe2/my_library/tree/polysyllabics  
+- - - my.rearch.method.X9________https://github.com/bbe2/my_library/tree/research.methods.biblio.X9.methods  
 - - my.instructional.design__https://github.com/bbe2/my_library/tree/instructional.design  
 -  my.judaism___________________https://github.com/bbe2/my_library/tree/judaism  
 - - my.linux_________________https://github.com/bbe2/my_library/tree/linux  
