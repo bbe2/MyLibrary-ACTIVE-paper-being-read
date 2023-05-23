@@ -6,7 +6,7 @@
 > [more C](https://github.com/bbe2/my_library/edit/coding.books/README.md)  
 
 - home________________________https://github.com/bbe2/my_library  
-- - mu.coding______________https://github.com/bbe2/my_library/edit/coding.books/README.md
+- - my.coding______________https://github.com/bbe2/my_library/edit/coding.books/README.md
 - - my.logic.an.AI___________https://github.com/bbe2/my_library/tree/logic  
 - - - my.consciousness__https://github.com/bbe2/my_library/tree/consciousness  
 - - - - my.standford.philosphy_https://github.com/bbe2/my_library/tree/philosophy  
