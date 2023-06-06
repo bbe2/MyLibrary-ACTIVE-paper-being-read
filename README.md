@@ -6,22 +6,22 @@
 > [more C](https://github.com/bbe2/my_library/edit/coding.books/README.md)  
 
 - [`home`](https://github.com/bbe2/my_library)  
-- - my.coding______________https://github.com/bbe2/my_library/tree/coding.books
-- - my.logic.an.AI___________https://github.com/bbe2/my_library/tree/logic  
-- - - my.consciousness__https://github.com/bbe2/my_library/tree/consciousness  
-- - - - my.standford.philosphy_https://github.com/bbe2/my_library/tree/philosophy  
-- - - my.literature_________________https://github.com/bbe2/my_library/tree/literature  
-- - my.natural.langugage.proc_______https://github.com/bbe2/my_library/tree/natural.language.processing  
-- my.machine.learning__________________https://github.com/bbe2/my_library/tree/machine.learning   
-- - my.lovecraftian___________________https://github.com/bbe2/my_library/tree/lovecraftian  
-- - - my.gram.syntax.styleguides__https://github.com/bbe2/my_library/tree/syntax_grammar_style_guides  
-- - - - my.polysyllabics_________https://github.com/bbe2/my_library/tree/polysyllabics  
-- - - my.rearch.method.X9________https://github.com/bbe2/my_library/tree/research.methods.biblio.X9.methods  
-- - my.instructional.design__https://github.com/bbe2/my_library/tree/instructional.design  
--  my.judaism___________________https://github.com/bbe2/my_library/tree/judaism  
-- - my.linux_________________https://github.com/bbe2/my_library/tree/linux  
-- -  AI.best.of.best___________https://github.com/bbe2/my_library/tree/AI.the.best.of.best   
--  the best Used books_________https://www.abebooks.com/   
+- - [`my.coding`](https://github.com/bbe2/my_library/tree/coding.books)  
+- - [`my.logic.an.AI`](https://github.com/bbe2/my_library/tree/logic)  
+- - - [`my.consciousness`](https://github.com/bbe2/my_library/tree/consciousness)  
+- - - - [`my.standford.philosphy`](https://github.com/bbe2/my_library/tree/philosophy)  
+- - - [`my.literature`](https://github.com/bbe2/my_library/tree/literature)  
+- - [`my.natural.langugage.proc`](https://github.com/bbe2/my_library/tree/natural.language.processing)  
+- [`my.machine.learning`](https://github.com/bbe2/my_library/tree/machine.learning)  
+- - [`my.lovecraftian`](https://github.com/bbe2/my_library/tree/lovecraftian)  
+- - - [`my.gram.syntax.styleguides`](https://github.com/bbe2/my_library/tree/syntax_grammar_style_guides)  
+- - - - [`my.polysyllabics`](https://github.com/bbe2/my_library/tree/polysyllabics)  
+- - - [`my.rearch.method.X9`](https://github.com/bbe2/my_library/tree/research.methods.biblio.X9.methods)  
+- - [`my.instructional.design`](https://github.com/bbe2/my_library/tree/instructional.design)  
+-  [`my.judaism`](https://github.com/bbe2/my_library/tree/judaism)  
+- - [`my.linux`](https://github.com/bbe2/my_library/tree/linux)  
+- -  [`AI.best.of.best`](https://github.com/bbe2/my_library/tree/AI.the.best.of.best)  
+-  [`the best Used books`](https://www.abebooks.com/)  
 
                                                        
 ## 4Q22 read with Ceasarean thumbs up or down  
@@ -33,8 +33,8 @@
 `Technology of the New Real, Kroker` (sociology x info.TECH critical theory) => Excellent !  
 `The devil is afraid of me. Fr. G. Amorth` <-- i knew it! beezlebub imps are real   
 `Living with Frankenstein machine consciousness` => mixed salad  
-- [remote viewing](https://rviewer.com/ )  
-- [nasa.uap](https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/)  
+- [`remote viewing`](https://rviewer.com/ )  
+- [`nasa.uap`](https://www.nasa.gov/feature/nasa-announces-unidentified-aerial-phenomena-study-team-members/)  
 
 ## **10 Influential Text Books (not ordered, top 5 are amazing!)**  
 • Deep Learning w Python, 2nd Francois Chollet  
@@ -62,9 +62,9 @@ https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
 >> In 2006 he calculates total bits in the universe to support his futurist arguments.  
 >> From my lens, this 1st principal thinking is like Einstein figuring out how fast light travels vs it eminating all around us**  
 
-![singularity_2045](https://user-images.githubusercontent.com/59778456/199331003-d078b3c8-7ebf-4693-93b4-18857c071630.JPG)
+![`singularity_2045`](https://user-images.githubusercontent.com/59778456/199331003-d078b3c8-7ebf-4693-93b4-18857c071630.JPG)
   
 ### timewarp ! 
 #### curiously: the C book, esp later editions, helpful explanations for undergrads  
-![old books](https://user-images.githubusercontent.com/59778456/214867438-38cfee84-2b36-444a-a274-144e4e09ab9e.jpg)
+![`old books`](https://user-images.githubusercontent.com/59778456/214867438-38cfee84-2b36-444a-a274-144e4e09ab9e.jpg)
 
