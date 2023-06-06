@@ -5,7 +5,7 @@
 > `must.have.2` C++ pocket reference, Kyle Loudon, O'reilly <serious well done  
 > [more C](https://github.com/bbe2/my_library/edit/coding.books/README.md)  
 
-- home________________________https://github.com/bbe2/my_library  
+- [`home`](https://github.com/bbe2/my_library)  
 - - my.coding______________https://github.com/bbe2/my_library/tree/coding.books
 - - my.logic.an.AI___________https://github.com/bbe2/my_library/tree/logic  
 - - - my.consciousness__https://github.com/bbe2/my_library/tree/consciousness  
