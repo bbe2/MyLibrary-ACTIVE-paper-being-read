@@ -6,7 +6,7 @@
 > [more C](https://github.com/bbe2/my_library/edit/coding.books/README.md)  
 
 - [`home`](https://github.com/bbe2/my_library)  
-- - [`my.coding`](https://github.com/bbe2/my_library/tree/coding.books)  
+- - [`my.coding`](https://github.com/bbe2/my_library/tree/coding.books) [`gpt`](https://github.com/bbe2/my_library/tree/gpt)  
 - - [`my.logic.an.AI`](https://github.com/bbe2/my_library/tree/logic)  
 - - - [`my.consciousness`](https://github.com/bbe2/my_library/tree/consciousness)  
 - - - - [`my.standford.philosphy`](https://github.com/bbe2/my_library/tree/philosophy)  
