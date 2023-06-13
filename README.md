@@ -14,9 +14,8 @@
 - - - [`my.gram.syntax.styleguides`](https://github.com/bbe2/my_library/tree/syntax_grammar_style_guides), [`my.polysyllabics`](https://github.com/bbe2/my_library/tree/polysyllabics)  
 - - - [`my.rearch.method.X9`](https://github.com/bbe2/my_library/tree/research.methods.biblio.X9.methods), [`my.instructional.design`](https://github.com/bbe2/my_library/tree/instructional.design)  
 -  [`my.judaism`](https://github.com/bbe2/my_library/tree/judaism), [`my.linux`](https://github.com/bbe2/my_library/tree/linux), [`AI.best.of.best`](https://github.com/bbe2/my_library/tree/AI.the.best.of.best), [`the best Used books`](https://www.abebooks.com/)  
-- [`more C`](https://github.com/bbe2/my_library/edit/coding.books/README.md)  [`C++ Primer 5th Edition, by Lippman, Lajoie, Moo`](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?crid=18GTQEVGBW184&keywords=c%2B%2B+primer&qid=1684802643&sprefix=c%2B%2B+primer%2Caps%2C112&sr=8-1 )  
+- [`more C`](https://github.com/bbe2/my_library/tree/coding.books)  [`C++ Primer 5th Edition, by Lippman, Lajoie, Moo`](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?crid=18GTQEVGBW184&keywords=c%2B%2B+primer&qid=1684802643&sprefix=c%2B%2B+primer%2Caps%2C112&sr=8-1 )  
 - - [`summary`](https://owl.purdue.edu/owl/avoiding_plagiarism/guide_overview%20.html)  [`AP`](https://www.apstylebook.com/?_ga=2.156527229.756556437.1677109102-720682068.1677109102) [`Chicago`](https://www.chicagomanualofstyle.org/home.html?_ga=2.156527229.756556437.1677109102-720682068.1677109102) [`ACM-compute`](https://www.acm.org/publications/authors/reference-formatting?_ga=2.154741118.756556437.1677109102-720682068.1677109102) [`APA-pysch`](https://apastyle.apa.org/style-grammar-guidelines)  
-
                                                        
 ## 4Q22 read with Ceasarean thumbs up or down  
 `the new breed - Kate Darling`  love IT  !  
