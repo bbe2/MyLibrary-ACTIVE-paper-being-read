@@ -3,7 +3,6 @@
 > 2Q23 deep work with  
 > `must.have.1` C++ Primer 5th Edition, by Lippman, Lajoie, Moo [amazon](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?crid=18GTQEVGBW184&keywords=c%2B%2B+primer&qid=1684802643&sprefix=c%2B%2B+primer%2Caps%2C112&sr=8-1 )  
 > `must.have.2` C++ pocket reference, Kyle Loudon, O'reilly <serious well done  
-> [more C](https://github.com/bbe2/my_library/edit/coding.books/README.md)  
 
 - [`home`](https://github.com/bbe2/my_library)  
 - - [`my.coding`](https://github.com/bbe2/my_library/tree/coding.books)  
