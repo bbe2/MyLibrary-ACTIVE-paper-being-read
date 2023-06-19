@@ -1,5 +1,7 @@
 😲  this page: philosphy    
 [zombies.docx](https://github.com/bbe2/my_library/files/11790356/zombies.docx)
+[zombies.pdf](https://github.com/bbe2/my_library/files/11791471/zombies.pdf)
+
 
 - [`home`](https://github.com/bbe2/my_library)  
 - - [`coding`](https://github.com/bbe2/my_library/tree/coding.books) [`logic.an.AI`](https://github.com/bbe2/my_library/tree/logic)  [`AI.best.of.best`](https://github.com/bbe2/my_library/tree/AI.the.best.of.best)  
