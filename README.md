@@ -1,5 +1,15 @@
 😲  brian's curious library
 
+
+
+[article.gpt.2023.GPTs.are.GPTs.labor.market.outlook.pdf](https://github.com/bbe2/my_library/files/11787795/article.gpt.2023.GPTs.are.GPTs.labor.market.outlook.pdf)  
+[article.gpt4.2023..technical.report.pdf](https://github.com/bbe2/my_library/files/11787789/article.gpt4.2023.technical.report.pdf)  
+[article.gpt.2023.whisper.pdf](https://github.com/bbe2/my_library/files/11787788/article.gpt.2023.whisper.pdf)  
+[article.gpt.2023.research.econ.impact.code.generation.pdf](https://github.com/bbe2/my_library/files/11787787/article.gpt.2023.research.econ.impact.code.generation.pdf)  
+[article.gpt.2023.auto.Code.generation.pdf](https://github.com/bbe2/my_library/files/11787786/article.gpt.2023.auto.Code.generation.pdf)  
+
+
+
 - [`home`](https://github.com/bbe2/my_library)  
 - - [`my.coding`](https://github.com/bbe2/my_library/tree/coding.books) [`my.logic.an.AI`](https://github.com/bbe2/my_library/tree/logic)  
 -  [`my.consciousness`](https://github.com/bbe2/my_library/tree/consciousness) [`my.standford.philosphy`](https://github.com/bbe2/my_library/tree/philosophy)  
