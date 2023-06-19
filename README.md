@@ -1,5 +1,10 @@
 😲  this page: philosphy    
 
+
+[zombies.docx](https://github.com/bbe2/my_library/files/11790356/zombies.docx)
+
+
+
 - [`home`](https://github.com/bbe2/my_library)  
 - - [`my.coding`](https://github.com/bbe2/my_library/tree/coding.books)    [`gpt`](https://github.com/bbe2/my_library/tree/gpt)  
 - - [`my.logic.an.AI`](https://github.com/bbe2/my_library/tree/logic)  
