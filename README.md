@@ -1,5 +1,10 @@
 😲  this page: professor.brian's curious library
 
+[how.To.install.jupyter.notebook.pdf](https://github.com/bbe2/my_library/files/11805018/how.To.install.jupyter.notebook.pdf)
+[howTo.read.research.papers.KeshavA.pdf](https://github.com/bbe2/my_library/files/11805019/howTo.read.research.papers.KeshavA.pdf)
+
+
+
 - [`home`](https://github.com/bbe2/my_library)  
 - - [`coding`](https://github.com/bbe2/my_library/tree/coding.books) [`logic.an.AI`](https://github.com/bbe2/my_library/tree/logic)  [`how.To.by.Professor.Full.Brain`](https://github.com/bbe2/my_library/tree/how.To.by.professor.brian)  
 -  [`consciousness`](https://github.com/bbe2/my_library/tree/consciousness) [`philosphy`](https://github.com/bbe2/my_library/tree/philosophy)  
