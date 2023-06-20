@@ -1,7 +1,7 @@
-😲  this page: professor.brian's curious library
+😲  this page: professor.brian's curious library  
 
-[how.To.install.jupyter.notebook.pdf](https://github.com/bbe2/my_library/files/11805018/how.To.install.jupyter.notebook.pdf)
-[howTo.read.research.papers.KeshavA.pdf](https://github.com/bbe2/my_library/files/11805019/howTo.read.research.papers.KeshavA.pdf)
+[how.To.install.jupyter.notebook.pdf](https://github.com/bbe2/my_library/files/11805018/how.To.install.jupyter.notebook.pdf)  
+[howTo.read.research.papers.KeshavA.pdf](https://github.com/bbe2/my_library/files/11805019/howTo.read.research.papers.KeshavA.pdf)  
 
 
 
