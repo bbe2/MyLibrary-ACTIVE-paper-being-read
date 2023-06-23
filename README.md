@@ -3,6 +3,9 @@
 [how.To.install.jupyter.notebook.pdf](https://github.com/bbe2/my_library/files/11805018/how.To.install.jupyter.notebook.pdf)  
 [howTo.read.research.papers.KeshavA.pdf](https://github.com/bbe2/my_library/files/11805019/howTo.read.research.papers.KeshavA.pdf)  
 
+how.To.bayesian (quality text)  
+Bayes Rules! An Introduction to Applied Bayesian Modeling  
+Alicia A. Johnson, Miles Q. Ott, Mine Dogucu - https://www.bayesrulesbook.com/  
 
 
 - [`home`](https://github.com/bbe2/my_library)  
