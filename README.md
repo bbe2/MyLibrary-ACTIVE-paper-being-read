@@ -1,4 +1,6 @@
-😲  this page: quality programming books  
+😲  this page: quality programming books   
+- Cornell university software training lab - https://cvw.cac.cornell.edu/topics  
+- New York University software training lab - [`Pyman`](https://physics.nyu.edu/pine/pymanual/html/pymanMaster.html#)  
 
 > 2Q23 deep work with  
 > `must.have.1` C++ Primer 5th Edition, by Lippman, Lajoie, Moo [amazon](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?crid=18GTQEVGBW184&keywords=c%2B%2B+primer&qid=1684802643&sprefix=c%2B%2B+primer%2Caps%2C112&sr=8-1 )  
