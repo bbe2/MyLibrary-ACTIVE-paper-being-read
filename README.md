@@ -1,27 +1,12 @@
-### library navigation  
-- my.library.home____________________https://github.com/bbe2/my_library  
-- my.library.consciousness___________https://github.com/bbe2/my_library/tree/consciousness  
-- my.library.standford.philosphy_____https://github.com/bbe2/my_library/tree/philosophy  
-- my.library.literature_________________https://github.com/bbe2/my_library/tree/literature  
-- my.lib.natural.langugage.proc______https://github.com/bbe2/my_library/tree/natural.language.processing  
-- my.library.logic.an.AI_______________https://github.com/bbe2/my_library/tree/logic  
-- my.library.lovecraftian______________https://github.com/bbe2/my_library/tree/lovecraftian
-- my.lib.grammar.syntax.styleguides__https://github.com/bbe2/my_library/tree/syntax_grammar_style_guides  
-- my.lib.polysyllabics_______________https://github.com/bbe2/my_library/tree/polysyllabics  
-- my.lib.instructional.design__________https://github.com/bbe2/my_library/tree/instructional.design  
-- my.lib.judaism______________________https://github.com/bbe2/my_library/tree/judaism
-- my.lib.linux_____________________https://github.com/bbe2/my_library/tree/linux
+😲  this page: python training books
 
-**how.to.tech.sites.misc.tools**  
-• AWS research papers______________https://www.amazon.science/publications  
-• linux.exam.essentials________https://learning.lpi.org/en/learning-materials/010-160/  
-• tensorflow.BERT_____________https://github.com/tensorflow/models/tree/master/official#natural-language-processing  
-• awesome.ML.github.GPUs__https://github.com/josephmisiti/awesome-machine-learning  
-===> in jupyter notebooks  
-• article.github.GPU___________https://github.blog/2022-11-22-exciting-new-github-features-powering-machine-learning/  
-• ____________GPU.notebook________https://github.com/sethjuarez/tlaloc/blob/main/notebooks/generate.ipynb)  
-• data.mesh.kafka____________https://github.com/bbe2/my_library/blob/master/(data)(kafka).Data.Mesh.confluence.pdf  
-• algorithms.book.high.quality.springer___https://link.springer.com/book/10.1007/978-3-030-54256-6  
-• computer science.manuals.emporium_____https://www.springer.com/series/3191/books?page=1  
-• machineLearning.help.explain.decent____https://christophm.github.io/interpretable-ml-book/tree.html  
-• ChatGPT.overview.by.Dr.Al-Malah_______[(article)(ai)ChatGPT.Dr.Kamal.Al-Malah.ICARUS.pdf](https://github.com/bbe2/my_library/files/10562969/article.ai.ChatGPT.Dr.Kamal.Al-Malah.ICARUS.pdf)  
+- [`home`](https://github.com/bbe2/my_library)  
+- - [`how.To.coding`](https://github.com/bbe2/my_library/tree/coding.books) [`how.To.Logic.an.AI`](https://github.com/bbe2/my_library/tree/logic)  [`how.To.with.professor.Full.Brain`](https://github.com/bbe2/my_library/tree/how.To.by.professor.brian)  
+-  [`consciousness`](https://github.com/bbe2/my_library/tree/consciousness) [`philosphy`](https://github.com/bbe2/my_library/tree/philosophy)  
+- - - [`natural.langugage.proc`](https://github.com/bbe2/my_library/tree/natural.language.processing) [`machine.learning`](https://github.com/bbe2/my_library/tree/machine.learning)
+  - [`gpt - methods`](https://github.com/bbe2/my_library/tree/gpt)  [`literature`](https://github.com/bbe2/my_library/tree/literature) [`lovecraftian`](https://github.com/bbe2/my_library/tree/lovecraftian)  
+- - - [`gram.syntax.styleguides`](https://github.com/bbe2/my_library/tree/syntax_grammar_style_guides) [`polysyllabics`](https://github.com/bbe2/my_library/tree/polysyllabics)  
+- - - [`rearch.method.X9`](https://github.com/bbe2/my_library/tree/research.methods.biblio.X9.methods) [`my.instructional.design`](https://github.com/bbe2/my_library/tree/instructional.design)  
+-  [`judaism`](https://github.com/bbe2/my_library/tree/judaism) [`linux`](https://github.com/bbe2/my_library/tree/linux), [`AI.best.of.best`](https://github.com/bbe2/my_library/tree/AI.the.best.of.best), [`best Used books`](https://www.abebooks.com/)  
+- [`more C`](https://github.com/bbe2/my_library/tree/coding.books)  [`C++ Primer 5th Edition, by Lippman, Lajoie, Moo`](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/ref=sr_1_1?crid=18GTQEVGBW184&keywords=c%2B%2B+primer&qid=1684802643&sprefix=c%2B%2B+primer%2Caps%2C112&sr=8-1 )  
+- - styles: [`summary`](https://owl.purdue.edu/owl/avoiding_plagiarism/guide_overview%20.html)  [`AP`](https://www.apstylebook.com/?_ga=2.156527229.756556437.1677109102-720682068.1677109102) [`Chicago`](https://www.chicagomanualofstyle.org/home.html?_ga=2.156527229.756556437.1677109102-720682068.1677109102) [`ACM-compute`](https://www.acm.org/publications/authors/reference-formatting?_ga=2.154741118.756556437.1677109102-720682068.1677109102) [`APA-pysch`](https://apastyle.apa.org/style-grammar-guidelines)  
