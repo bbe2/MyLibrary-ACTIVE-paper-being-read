@@ -1,7 +1,7 @@
 😲  this page: professor.Ful.Brain's curious library  
 
-[how.To.install.jupyter.notebook.pdf](https://github.com/bbe2/my_library/files/11805018/how.To.install.jupyter.notebook.pdf)  
-[howTo.read.research.papers.KeshavA.pdf](https://github.com/bbe2/my_library/files/11805019/howTo.read.research.papers.KeshavA.pdf)  
+- [how.To.install.jupyter.notebook.pdf](https://github.com/bbe2/my_library/files/11805018/how.To.install.jupyter.notebook.pdf)  
+- [how.To.read.research.papers.KeshavA.pdf](https://github.com/bbe2/my_library/files/11861139/how.To.read.research.papers.KeshavA.pdf)
 
 how.To.bayesian
 => [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/)  
