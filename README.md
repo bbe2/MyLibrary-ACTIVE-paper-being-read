@@ -1,7 +1,7 @@
 😲  this page: professor.brian's curious library
 
 - [`home`](https://github.com/bbe2/my_library)  
-- - [`coding`](https://github.com/bbe2/my_library/tree/coding.books) [`logic.an.AI`](https://github.com/bbe2/my_library/tree/logic)  [`how.To.by.Professor.Full.Brain`](https://github.com/bbe2/my_library/tree/how.To.by.professor.brian)  
+- - [`how.To.coding`](https://github.com/bbe2/my_library/tree/coding.books) [`how.To.Logic.an.AI`](https://github.com/bbe2/my_library/tree/logic)  [`how.To.with.professor.Full.Brain`](https://github.com/bbe2/my_library/tree/how.To.by.professor.brian)  
 -  [`consciousness`](https://github.com/bbe2/my_library/tree/consciousness) [`philosphy`](https://github.com/bbe2/my_library/tree/philosophy)  
 - - - [`natural.langugage.proc`](https://github.com/bbe2/my_library/tree/natural.language.processing) [`machine.learning`](https://github.com/bbe2/my_library/tree/machine.learning)
   - [`gpt - methods`](https://github.com/bbe2/my_library/tree/gpt)  [`literature`](https://github.com/bbe2/my_library/tree/literature)  
