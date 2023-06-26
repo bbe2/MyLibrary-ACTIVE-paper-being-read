@@ -1,11 +1,11 @@
-😲  brian's curious library
+😲  this page: Professor.Full.Brain's curious library  
 
 [article.gpt.2023.GPTs.are.GPTs.labor.market.outlook.pdf](https://github.com/bbe2/my_library/files/11787795/article.gpt.2023.GPTs.are.GPTs.labor.market.outlook.pdf)  
 [article.gpt4.2023..technical.report.pdf](https://github.com/bbe2/my_library/files/11787789/article.gpt4.2023.technical.report.pdf)  
 [article.gpt.2023.whisper.pdf](https://github.com/bbe2/my_library/files/11787788/article.gpt.2023.whisper.pdf)  
 [article.gpt.2023.research.econ.impact.code.generation.pdf](https://github.com/bbe2/my_library/files/11787787/article.gpt.2023.research.econ.impact.code.generation.pdf)  
-[article.gpt.2023.auto.Code.generation.pdf](https://github.com/bbe2/my_library/files/11787786/article.gpt.2023.auto.Code.generation.pdf)  
-😲  this page: professor.brian's curious library  
+[article.gpt.2023.auto.Code.generation.pdf](https://github.com/bbe2/my_library/files/11787786/article.gpt.2023.auto.Code.generation.pdf) 
+
 
 - [`home`](https://github.com/bbe2/my_library)  [`Professor.Full.Brian`](https://github.com/bbe2/professor.brian)  
 - - [`how.To.coding`](https://github.com/bbe2/my_library/tree/coding.books) [`how.To.Logic.an.AI`](https://github.com/bbe2/my_library/tree/logic)  [`how.To.with.professor.Full.Brain`](https://github.com/bbe2/my_library/tree/how.To.by.professor.brian)  
