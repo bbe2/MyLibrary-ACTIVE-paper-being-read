@@ -7,7 +7,7 @@
 > `must.have.2` C++ pocket reference, Kyle Loudon, O'reilly (well.done.!_ [amazon](https://www.amazon.com/C-Pocket-Reference-Kyle-Loudon/dp/0596004966/ref=sr_1_1?crid=1NWZA84C2T2J6&keywords=C%2B%2B+pocket+reference%2C+Kyle+Loudon%2C+O%27reilly&qid=1687168247&sprefix=c%2B%2B+pocket+reference%2C+kyle+loudon%2C+o%27reilly%2Caps%2C78&sr=8-1)
 
 - [`home`](https://github.com/bbe2/my_library)  [`prof.brian`](https://github.com/bbe2/professor.brian)  
-- - [`coding`](https://github.com/bbe2/my_library/tree/coding.books) [`how.To.Logic.an.AI`](https://github.com/bbe2/my_library/tree/logic)  [`how.To.with.professor.Full.Brain`](https://github.com/bbe2/my_library/tree/how.To.by.professor.brian)  
+- - [`coding`](https://github.com/bbe2/my_library/tree/coding.books) [`how.To.Logic.an.AI`](https://github.com/bbe2/my_library/tree/logic)  [`how.To.with.Dr.Full.Brain`](https://github.com/bbe2/my_library/tree/how.To.by.professor.brian)  
 -  [`consciousness`](https://github.com/bbe2/my_library/tree/consciousness) [`philosphy`](https://github.com/bbe2/my_library/tree/philosophy)  
 - - - [`natural.langugage.proc`](https://github.com/bbe2/my_library/tree/natural.language.processing) [`machine.learning`](https://github.com/bbe2/my_library/tree/machine.learning)
   - [`gpt - methods`](https://github.com/bbe2/my_library/tree/gpt)  [`literature`](https://github.com/bbe2/my_library/tree/literature) [`lovecraftian`](https://github.com/bbe2/my_library/tree/lovecraftian)  
