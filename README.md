@@ -1,4 +1,10 @@
-😲  this page: research tools  
+😲  this page: research and statistics tools  
+
+[cheat.statistics.probability.pdf](https://github.com/bbe2/my_library/files/12030907/cheat.statistics.probability.pdf)  
+[cheat.statistics.syracuse.pdf](https://github.com/bbe2/my_library/files/12030911/cheat.statistics.syracuse.pdf)  
+
+
+
 
 - [`home`](https://github.com/bbe2/my_library)  
 - - [`coding`](https://github.com/bbe2/my_library/tree/coding.books) [`logic.an.AI`](https://github.com/bbe2/my_library/tree/logic)  
