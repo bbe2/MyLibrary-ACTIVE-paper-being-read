@@ -1,4 +1,13 @@
 😲  this page: best of; keeps growing  
+
+[1.aws.bus.intelligence.engineer.job.description.pdf](https://github.com/bbe2/my_library/files/12032532/1.aws.bus.intelligence.engineer.job.description.pdf)  
+[2.aws.interview.preparation.pdf](https://github.com/bbe2/my_library/files/12032533/2.aws.interview.preparation.pdf)  
+[3.aws.leadership.principals.pdf](https://github.com/bbe2/my_library/files/12032534/3.aws.leadership.principals.pdf)  
+[4.aws.knowledge.check.pdf](https://github.com/bbe2/my_library/files/12032535/4.aws.knowledge.check.pdf)  
+[5.ML.architect.principals.pdf](https://github.com/bbe2/my_library/files/12032536/5.ML.architect.principals.pdf)  
+
+
+
 - [`home`](https://github.com/bbe2/my_library)  
 - - [`coding`](https://github.com/bbe2/my_library/tree/coding.books) [`logic.an.AI`](https://github.com/bbe2/my_library/tree/logic)  [`AI.best.of.best`](https://github.com/bbe2/my_library/tree/AI.the.best.of.best)  
 -  [`consciousness`](https://github.com/bbe2/my_library/tree/consciousness) [`philosphy`](https://github.com/bbe2/my_library/tree/philosophy)  
