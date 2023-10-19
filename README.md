@@ -1,5 +1,7 @@
 😲  this page: philosphy    
 [zombies.pdf](https://github.com/bbe2/my_library/files/11791471/zombies.pdf)
+[substance.pdf](https://github.com/bbe2/my_library/files/13035890/substance.pdf)
+
 
 [mechanisms.in.science.pdf](https://github.com/bbe2/my_library/files/11811065/mechanisms.in.science.pdf)
 
