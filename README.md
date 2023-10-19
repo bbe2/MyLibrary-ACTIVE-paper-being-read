@@ -1,11 +1,11 @@
 😲  this page: philosphy    
-[zombies.pdf](https://github.com/bbe2/my_library/files/11791471/zombies.pdf)
-[substance.pdf](https://github.com/bbe2/my_library/files/13035890/substance.pdf)
+[zombies.pdf](https://github.com/bbe2/my_library/files/11791471/zombies.pdf)  
+[substance.pdf](https://github.com/bbe2/my_library/files/13035890/substance.pdf)  
 
 
-[mechanisms.in.science.pdf](https://github.com/bbe2/my_library/files/11811065/mechanisms.in.science.pdf)
+[mechanisms.in.science.pdf](https://github.com/bbe2/my_library/files/11811065/mechanisms.in.science.pdf)  
 
-- [`home`](https://github.com/bbe2/my_library)  
+- [`home`](https://github.com/bbe2/my_library)   
 - - [`coding`](https://github.com/bbe2/my_library/tree/coding.books) [`logic.an.AI`](https://github.com/bbe2/my_library/tree/logic)  [`AI.best.of.best`](https://github.com/bbe2/my_library/tree/AI.the.best.of.best)  
 -  [`consciousness`](https://github.com/bbe2/my_library/tree/consciousness) [`philosphy`](https://github.com/bbe2/my_library/tree/philosophy)  
 - - - [`literature`](https://github.com/bbe2/my_library/tree/literature)  
